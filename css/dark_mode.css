@@ -5,9 +5,9 @@
 */
 
 :root{
-    --light: #F6F6F6;
+    --light: #FFFFFF;
     --blue-primary: #3E54A3;
-    --dark: #333439;
+    --dark: #0E1A2A;
     --gray: #FFD523;
     --pink: #fbe0c4;
 }
@@ -67,23 +67,24 @@
 .dark-mode .text-release{
     /* background-color: var(--gray); */
     /* background-color: #1C2431; */
-    background-color: var(--light);
+    background-color: var(--gray);
 }
 .dark-mode .text-release h6{
-    color: #1C2431;
+    color: var(--dark);
     line-height: 20px;
 }
 .dark-mode .text-release a{
-    background-color: #1C2431;
+    background-color: var(--dark);
     color: var(--light);
-    border: 1px solid #1C2431;
 }
 .dark-mode .text-release a:hover{
     background-color: var(--dark);
     color: var(--light);
-    border: 1px solid #595260;
 }
-.dark-mode .text-release .btn{
-    background-color: #1C2431;
-    color: var(--light);
+.dark-mode .box-search #bar-search::-webkit-input-placeholder{
+    color: var(--dark);
+    letter-spacing: 1px;
+}
+.dark-mode .fa-search{
+    color: var(--dark);
 }

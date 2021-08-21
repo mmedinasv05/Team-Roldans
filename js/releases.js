@@ -20,8 +20,7 @@ const filtrar = ()=>{
                     <img src="${release.image}" class="image-release-h" loading="lazy" atl="${release.title}" />
                     <figcaption class="text-release">
                         <h6>${release.title}</h6>
-                        <a href="${release.urlBeedoo}" target="_blank">Ir a Beedo</a>
-                        <a href="#" target="_blank" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Ver información</a>
+                        <a href="${release.urlBeedoo}" target="_blank">Ver en Beedo</a>                        
                     </figcaption aption>
                 </figure>
             `
@@ -31,11 +30,9 @@ const filtrar = ()=>{
                     <img src="${release.image}" class="image-release" loading="lazy" atl="${release.title}" />
                     <figcaption class="text-release">
                         <h6>${release.title}</h6>
-                        <a href="${release.urlBeedoo}" target="_blank">Ir a Beedo</a>
+                        <a href="${release.urlBeedoo}" target="_blank">Ver en Beedo</a>
 
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal${release.id}">
-                            Ver información
-                        </button>
+                        
                     </figcaption aption>
                 </figure>
 
