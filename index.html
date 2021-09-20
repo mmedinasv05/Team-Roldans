@@ -27,6 +27,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="index.html">Team Roldan´s</a>
+                
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -71,6 +72,7 @@
                                 <li><a class="dropdown-item" href="https://dashboard.atento.com.sv/ReportesMotorola/Login.aspx" target="_blank">Llamadas Programadas</a></li>
                                 <li><a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1dGpuKW3ykSTRvsjpGzP3XGDKO_3M19o2I6d7ONX2nQ4/edit?usp=sharing" target="_blank">Especificaciones EQ</a></li>
                                 <li><a class="dropdown-item" href="https://sites.google.com/view/intramotoatento" target="_blank">Intranet Motorola</a></li>
+                                <li><a class="dropdown-item" href="https://motorola-support.sds.modeaondemand.com/portal" target="_blank">Teléfonos Virtuales</a></li>
                                 <!-- <li><a class="dropdown-item" href="#" target="_blank">Action</a></li>
                                 <li><a class="dropdown-item" href="#" target="_blank">Action</a></li> -->
                             </ul>
@@ -86,7 +88,8 @@
                                 <li><a class="dropdown-item" href="https://www.tnt.com/express/es_ar/site/herramientas-envio/seguimiento.html" target="_blank">Tracking Fedex</a></li>
                                 <li><a class="dropdown-item" href="https://seguimiento.andreani.com/" target="_blank">Tracking Andreani</a></li>
                                 <li><a class="dropdown-item" href="https://www.servientrega.com/wps/portal/Colombia/transacciones-personas/rastreo-envios" target="_blank">tracking Servientrega</a></li>
-                                <li><a class="dropdown-item" href="https://micodigopostal.org/" target="_blank">Validar CP MX</a></li>                        
+                                <li><a class="dropdown-item" href="https://micodigopostal.org/" target="_blank">Validar CP MX</a></li>
+                                <li><a class="dropdown-item" href="https://www.verifyemailaddress.org/es/" target="_blank">Validar Email</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -103,25 +106,25 @@
         <!-- Section FAQ -->
         <nav class="section-faq">
 
-            <i class="fab fa-buromobelexperte" title="Todos los FAQ" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal1"></i>
+            <i class="fab fa-buromobelexperte" id="icon-faq" title="Todos los FAQ" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal1"></i>
 
-            <i class="fas fa-mobile-alt" title="FAQ sobre pantalla" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal2"></i>
+            <i class="fas fa-mobile-alt" id="icon-faq" title="FAQ sobre pantalla" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal2"></i>
 
-            <i class="fas fa-battery-full" title="FAQ sobre batería" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal3"></i>
+            <i class="fas fa-battery-full" id="icon-faq" title="FAQ sobre batería" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal3"></i>
 
-            <i class="fas fa-volume-up" title="FAQ sobre sonido" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal4"></i>
+            <i class="fas fa-volume-up" id="icon-faq" title="FAQ sobre sonido" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal4"></i>
 
-            <i class="fab fa-bluetooth" title="FAQ sobre Bluetooth" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal5"></i>
+            <i class="fab fa-bluetooth" id="icon-faq" title="FAQ sobre Bluetooth" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal5"></i>
 
-            <i class="fas fa-wifi" title="FAQ sobre WiFi" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal6"></i>
+            <i class="fas fa-wifi" id="icon-faq" title="FAQ sobre WiFi" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal6"></i>
 
-            <i class="fas fa-sd-card" title="FAQ sobre memoria SD" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal7"></i>
+            <i class="fas fa-sd-card" id="icon-faq" title="FAQ sobre memoria SD" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal7"></i>
 
-            <i class="fas fa-sim-card" title="FAQ sobre SIM Card" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal8"></i>
+            <i class="fas fa-sim-card" id="icon-faq" title="FAQ sobre SIM Card" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal8"></i>
 
-            <i class="fab fa-google" title="FAQ sobre seguridad o App de Google" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal9"></i>
+            <i class="fab fa-google" id="icon-faq" title="FAQ sobre seguridad o App de Google" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal9"></i>
 
-            <i class="fas fa-camera-retro" title="FAQ sobre cámara" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal10"></i>
+            <i class="fas fa-camera-retro" id="icon-faq" title="FAQ sobre cámara" data-icon data-bs-toggle="modal" data-bs-target="#exampleModal10"></i>
 
             <!-- Mode Dark -->
             <img src="media/moon.svg" alt="Moon" id="moon" title="Dark Mode" class="img-theme">
@@ -3756,14 +3759,14 @@
 
             <!-- Title Release -->
             <header class="title-releases">
-                <h1>Comunicados</h1>                
+                <h1>Comunicados.</h1>                
             </header>
 
             <!-- Section Search -->
             <section class="search-releases">
                 <div class="box-search">
                     <i class="fas fa-search"></i>
-                    <input type="text" name="search-release" id="bar-search" placeholder="Buscar comunicado.">
+                    <input type="text" name="search-release" id="bar-search" placeholder="Buscar comunicados.">
                 </div>
             </section>
 

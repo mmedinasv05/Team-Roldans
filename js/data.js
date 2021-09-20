@@ -1,5 +1,26 @@
 export const releases = [
     {
+        id: 126,
+        title: "COMUNICADO: MASC perú - 8 sept. 2021.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/251519/post-masc-peru-8-sept-2021",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/3f7d8bc16a9223f4631f7832a789d77c.png",
+        prhase: "V"
+    },
+    {
+        id: 125,
+        title: "COMUNICADO: Moto g20, E6i y G9 plus - ARG no entran llamadas a menos que cambie las preferecias de red.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/249143/post-moto-g20-e6i-y-g9-plus-arg-no-entran-llamadas-a-menos-que-cambie-las-preferecias-de-red",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/329231248c755cec099c1d53dec96475.png",
+        prhase: "V"
+    },
+    {
+        id: 124,
+        title: "COMUNICADO: Nuevo script de cierre - referencias a revisión y status de reparación.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/249128/post-nuevo-script-de-cierre-referencias-a-revision-y-status-de-reparacion",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/52cac6fb0f28922d04db49e0383c5cba.png",
+        prhase: "V"
+    },
+    {
         id: 123,
         title: "COMUNICADO: Nueva actualización para moto E 7i power.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/244175/post-nueva-actualizacion-para-moto-e-7i-power",
@@ -1333,34 +1354,14 @@ export const releases = [
         title: "COMUNICADO: Campo País en RNT: Clientes fuera de LATAM",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/156746/post-campo-pais-en-rnt-clientes-fuera-de-latam",
         image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/kevin.urbina/post/img/daf597e212fff098caf4aa6a8a7c79de.png",
-        prhase: "V",
-        paso1: "",
-        paso2: "",
-        paso3: "",
-        paso4: "",
-        paso5: "",
-        paso6: "",
-        paso7: "",
-        paso8: "",
-        paso9: "",
-        paso10: ""
+        prhase: "V"
     },
     {
         id: 29,
         title: "BOLETIN: Moto G9 Plus - Audio del altavoz ruidoso - Altavoz sin audio",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/155162/post-boletin-moto-g9-plus-audio-del-altavoz-ruidoso-altavoz-sin-audio",
         image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/kevin.urbina/post/img/4c601c7c9a85ba8cc61113b741337be6.png",
-        prhase: "V",
-        paso1: "",
-        paso2: "",
-        paso3: "",
-        paso4: "",
-        paso5: "",
-        paso6: "",
-        paso7: "",
-        paso8: "",
-        paso9: "",
-        paso10: ""
+        prhase: "V"
     },
     {
         id: 30,

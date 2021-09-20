@@ -11,7 +11,9 @@
     --gray: #FFD523;
     --pink: #fbe0c4;
 }
-
+.dark-mode .image-brand img{
+    display: none;
+}
 .light-mode{
     /* background-color: #E8F0F2; */
     background-color: #FAFAFA;   

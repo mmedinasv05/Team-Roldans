@@ -1,5 +1,5 @@
 const $loading = document.getElementById("loader");
 
-window.addEventListener("DOMContentLoaded", () => {
+window.addEventListener("load", () => {
     $loading.style.display = "none";
 })

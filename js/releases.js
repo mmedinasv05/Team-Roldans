@@ -20,7 +20,7 @@ const filtrar = ()=>{
                     <img src="${release.image}" class="image-release-h" loading="lazy" atl="${release.title}" />
                     <figcaption class="text-release">
                         <h6>${release.title}</h6>
-                        <a href="${release.urlBeedoo}" target="_blank">Ver en Beedo</a>                        
+                        <a href="${release.urlBeedoo}" target="_blank">Ver en Beedoo.</a>                        
                     </figcaption aption>
                 </figure>
             `
@@ -30,7 +30,7 @@ const filtrar = ()=>{
                     <img src="${release.image}" class="image-release" loading="lazy" atl="${release.title}" />
                     <figcaption class="text-release">
                         <h6>${release.title}</h6>
-                        <a href="${release.urlBeedoo}" target="_blank">Ver en Beedo</a>
+                        <a href="${release.urlBeedoo}" target="_blank">Ver en Beedoo.</a>
 
                         
                     </figcaption aption>
