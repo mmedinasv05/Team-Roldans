@@ -6,7 +6,7 @@
 root{
     --light: #FFFFFF;
     --blue-primary: #3E54A3;
-    --dark: #0E1A2A;
+    --dark: #2D6187;
     --gray: #FFD523;
     --pink: #fbe0c4;
 }
@@ -137,7 +137,7 @@ body{
     width: 100%;
     height: auto;
     border: 1px solid var(--blue-primary);
-    padding: 10px 10px 0 10px;
+    padding: 20px 10px 10px 10px;
     border-radius: 5px;
     background-color: var(--blue-primary);
     color: var(--light);
@@ -162,7 +162,7 @@ body{
 }
 .title-faq-collapse{
     font-family: 'Space Mono', monospace;
-    font-size: 14px;
+    font-size: 16px;
     letter-spacing: 1px;
 }
 
@@ -170,7 +170,7 @@ body{
     font-family: 'Roboto', sans-serif;
     line-height: 25px;
     letter-spacing: 1px;
-    font-size: 14px;
+    font-size: 15px;
 }
 .text-extra{
     color: red;
@@ -260,13 +260,18 @@ body{
     width: 100%;
     height: 70%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     padding: 30px 70px;
     overflow-y: scroll;
     position: relative;
     scroll-behavior: smooth;
+}
+.center-releases{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .fa-arrow-circle-up{
     color: var(--blue-primary);
@@ -291,7 +296,7 @@ body{
 }
 .releases{
     width: 30%;
-    margin:  15px 5px 50px 0;
+    margin:  15px 15px 50px 15px;
     box-shadow: 0 4px 5px 2px rgb(0 0 0 / 30%);
     position: relative;
     display: flex;
@@ -320,7 +325,8 @@ body{
     width: 100%;
     height: 100%;
     opacity: 0;
-    background-color: var(--blue-primary);
+    background-color: #1F1F3A;
+    /* background-color: var(--blue-primary); */
     padding: 0 40px;
     display: flex;
     justify-content: center;

@@ -1,5 +1,40 @@
 export const releases = [
     {
+        id: 131,
+        title: "COMUNICADO: Soporte a accesorios - Colombia.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/262330/post-soporte-a-accesorios-colombia",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/ab3bd4de0d80f7e096b7e281ca8318cd.png",
+        prhase: "V"
+    },
+    {
+        id: 130,
+        title: "COMUNICADO: Actualización en proceso de Transferencias entre regiones.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/262297/post-actualizacion-en-proceso-de-transferencias-entre-regiones",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/533bfd37d09e60a630de2296b6121ed6.png",
+        prhase: "V"
+    },
+    {
+        id: 129,
+        title: "COMUNICADO: Nueva categoria - sensor de proximidad.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/261788/post-nueva-categoria-sensor-de-proximidad",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/3e1d6f5e4c0767bce00ce9c76689e9f0.gif",
+        prhase: "V"
+    },
+    {
+        id: 128,
+        title: "COMUNICADO: Ready for air remote - Colombia.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/261683/post-ready-for-air-remote-colombia",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/040332811b50ae3d72b8f561aa5c16e6.png",
+        prhase: "V"
+    },
+    {
+        id: 127,
+        title: "COMUNICADO: Lanzamiento de la versión de SW: QOH30.280-7 para moto e6i.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/261594/post-lanzamiento-de-la-version-de-sw-qoh30280-7-para-moto-e6i",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/9d5b6e103886f00c00c6583cd61fa97e.png",
+        prhase: "V"
+    },
+    {
         id: 126,
         title: "COMUNICADO: MASC perú - 8 sept. 2021.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/251519/post-masc-peru-8-sept-2021",
@@ -22,7 +57,7 @@ export const releases = [
     },
     {
         id: 123,
-        title: "COMUNICADO: Nueva actualización para moto E 7i power.",
+        title: "COMUNICADO: Nueva actualización para moto E7i power.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/244175/post-nueva-actualizacion-para-moto-e-7i-power",
         image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/e9c0fe00b2543ea28825d7b848fc51fe.png",
         prhase: "V"

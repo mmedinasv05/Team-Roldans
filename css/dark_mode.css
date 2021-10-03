@@ -57,6 +57,7 @@
 .dark-mode .text-release{
     background-color: var(--pink);
     transition: 0.5s ease-in-out;
+    background-color: #1F1F3A;
 }
 
 .dark-mode .content-releases::-webkit-scrollbar-thumb{

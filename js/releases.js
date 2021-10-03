@@ -86,6 +86,7 @@ const filtrar = ()=>{
         $contentRelease.innerHTML = `
             <img src="media/not-found.png" class="image-not-found" />
         `
+        $contentRelease.classList.add("center-releases");
     }
 
 }
