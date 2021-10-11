@@ -35,58 +35,16 @@ const filtrar = ()=>{
                         
                     </figcaption aption>
                 </figure>
-
-
-
-                <div class="modal fade" id="exampleModal${release.id}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <h5 class="modal-title" id="exampleModalLabel">
-                                    ${release.title}
-                                </h5>
-                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                            </div>
-                            <div class="modal-body">
-                                <ul>
-                                    <p class="p-item-release">${release.paso1}</>
-                                    <li class="list-item-release">
-                                        ${release.paso2}
-                                    </li>
-                                    <li class="list-item-release">
-                                        ${release.paso3}
-                                    </li>
-                                    <li class="list-item-release">
-                                        ${release.paso4}
-                                    </li>
-                                    <li class="list-item-release">
-                                        ${release.paso5}
-                                    </li>
-                                    <li class="list-item-release">
-                                        ${release.paso6}
-                                    </li>
-                                    <li class="list-item-release">
-                                        ${release.paso7}
-                                    </li>
-                                    <li class="list-item-release">
-                                        ${release.paso8}
-                                    </li>
-                                </ul>
-                            </div>                            
-                        </div>
-                    </div>
-                </div>
             `            
             }
-            ``
         }                
     }
 
     if($contentRelease.innerHTML === ""){
         $contentRelease.innerHTML = `
-            <img src="media/not-found.png" class="image-not-found" />
+            <img src="media/not.png" class="image-not-found" />
         `
-        $contentRelease.classList.add("center-releases");
+        /*<img src="media/not.png" class="image-not-found" /> */
     }
 
 }
