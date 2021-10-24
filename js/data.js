@@ -1,5 +1,54 @@
 export const releases = [
     {
+        id: 142,
+        title: "COMUNICADO: CHRAEFSB2021-42: Motorola Edge 20 Lite - Cámara trasera de 108MP, enfoque lento.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/270378/post-boletin-chraefsb2021-42-motorola-edge-20-lite-camara-trasera-de-108mp-enfoque-lento",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/a27e7fcf80d2ed5e7cbcb66c80535bba.png",
+        prhase: "V"
+    },
+    {
+        id: 141,
+        title: "COMUNICADO: CHRAEFSB2021-41: Inconvenientes con la respuesta del táctil - Edge 20/Edge 20 pro.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/269983/post-boletin-chraefsb2021-41-inconvenientes-con-la-respuesta-del-tactil-edge-20edge-20-pro",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/d2d0a2240555a6143d2f7f7d0e9fd765.png",
+        prhase: "V"
+    },
+    {
+        id: 140,
+        title: "COMUNICADO: CHRAEFSB2021-40 - Lineas blancas verticales (Edge 20/Edge20 pro).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/269925/post-boletin-chraefsb2021-40-lineas-blancas-verticales-edge-20edge20-pro",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/51a9f16b7405ce2bb8033c46c3cb755f.png",
+        prhase: "V"
+    },
+    {
+        id: 139,
+        title: "COMUNICADO: Pruebas publicas de la versión de SW: RTA31.68-25 para moto G20.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/269766/post-pruebas-publicas-de-la-version-de-sw-rta3168-25-para-moto-g20",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/e60cadfa313ca05258443f38fa297de7.png",
+        prhase: "V"
+    },
+    {
+        id: 138,
+        title: "COMUNICADO: Friendly reminder.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/269276/post-friendly-reminder",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/93f9ba358df702e0b3745c5d09a954a5.png",
+        prhase: "V"
+    },
+    {
+        id: 137,
+        title: "COMUNICADO: Actualización referencia a revisión técnica RAZR - México.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/268910/post-actualizacion-referencia-a-revision-tecnica-razr-mexico",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/0953a19770b2ff21453bfac0223873cf.png",
+        prhase: "V"
+    },
+    {
+        id: 136,
+        title: "COMUNICADO: Motorola DEFY ya disponible en México.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/268042/post-motorola-defy-ya-disponible-en-mexico",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/ca20ccb71d5254ab345fec01196d66bf.png",
+        prhase: "V"
+    },
+    {
         id: 135,
         title: "COMUNICADO: Reportes de retrasos en la recolección de equipos - Fedex Argentina.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/264961/post-reportes-de-retrasos-en-la-recoleccion-de-equipos-fedex-argentina",
