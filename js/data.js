@@ -1,5 +1,40 @@
 export const releases = [
     {
+        id: 147,
+        title: "COMUNICADO: CHRAEFSB2021-43 - Moto G50 5G - Pantalla - Marcas cosméticas.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/274163/post-boletin-chraefsb2021-43-moto-g50-5g-pantalla-marcas-cosmeticas",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/b0561ad4311aa97663f65d4d63632449.png",
+        prhase: "V"
+    },
+    {
+        id: 146,
+        title: "COMUNICADO: CHRAEFSB2021-45: Moto G20 - Almacenamiento de contactos - Contactos perdidos.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/273176/post-boletin-chraefsb2021-45-moto-g20-almacenamiento-de-contactos-contactos-perdidos",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/6b3b85ce1e0ed3136fecd0ac32966e65.png",
+        prhase: "V"
+    },
+    {
+        id: 145,
+        title: "COMUNICADO: Equipos dejan de reproducir en HD en apps de streaming (HBO Máx, Disney+, Netflix).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/273155/post-equipos-dejan-de-reproducir-en-hd-en-apps-de-streaming-hbo-max-disney-netflix",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/02d3b2fe5920b98b3084d6e2c5b21b55.png",
+        prhase: "V"
+    },
+    {
+        id: 144,
+        title: "COMUNICADO: CHRAEFSB2021-42B - Motorola Edge 20 Lite - Cámara con baja calidad de imagen o tono rojo inconsistente.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/272305/post-boletin-chraefsb2021-42b-motorola-edge-20-lite-camara-con-baja-calidad-de-imagen-o-tono-rojo-inconsistente",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/65d77f04b53089d365b864035fe6d292.png",
+        prhase: "V"
+    },
+    {
+        id: 143,
+        title: "COMUNICADO: Función: Protección contra sobrecarga.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/272297/post-funcion-proteccion-contra-sobrecarga",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/358602b41bcb86d26f21eb8a92c656f2.png",
+        prhase: "V"
+    },
+    {
         id: 142,
         title: "COMUNICADO: CHRAEFSB2021-42: Motorola Edge 20 Lite - Cámara trasera de 108MP, enfoque lento.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/270378/post-boletin-chraefsb2021-42-motorola-edge-20-lite-camara-trasera-de-108mp-enfoque-lento",
