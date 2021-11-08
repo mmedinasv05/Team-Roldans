@@ -1,5 +1,19 @@
 export const releases = [
     {
+        id: 149,
+        title: "COMUNICADO: Día sin IVA - Colombia.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/276794/post-dia-sin-iva-colombia",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/38111e3d2a039374d4f7be0ab2577bb9.png",
+        prhase: "V"
+    },
+    {
+        id: 148,
+        title: "COMUNICADO: Fallas con WA.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/276786/post-fallas-con-wa",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/650e8cee56079dfc19b2835e21a6e3e6.gif",
+        prhase: "V"
+    },
+    {
         id: 147,
         title: "COMUNICADO: CHRAEFSB2021-43 - Moto G50 5G - Pantalla - Marcas cosméticas.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/274163/post-boletin-chraefsb2021-43-moto-g50-5g-pantalla-marcas-cosmeticas",
