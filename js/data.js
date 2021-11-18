@@ -1,5 +1,26 @@
 export const releases = [
     {
+        id: 152,
+        title: "COMUNICADO: Registro de notas privadas para segundos contactos.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/281808/post-actualizacion-del-faq-143977-problemas-con-apps-de-terceros",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/1a51c4e8653628a64687d933639885a3.png",
+        prhase: "H"
+    },
+    {
+        id: 151,
+        title: "COMUNICADO: Registro de notas privadas para segundos contactos.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/281770/post-registro-de-notas-privadas-para-segundos-contactos",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/d49b9d60137e840a98430b61b8f92dd2.gif",
+        prhase: "V"
+    },
+    {
+        id: 150,
+        title: "COMUNICADO: Reportes de reinicios o apagados aleatorios moto G60s.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/281767/post-reportes-de-reinicios-o-apagados-aleatorios-moto-g60s",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/dfa722841df441a4c79cc009b9048514.png",
+        prhase: "V"
+    },
+    {
         id: 149,
         title: "COMUNICADO: Día sin IVA - Colombia.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/276794/post-dia-sin-iva-colombia",
