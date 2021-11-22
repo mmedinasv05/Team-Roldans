@@ -1,5 +1,12 @@
 export const releases = [
     {
+        id: 153,
+        title: "COMUNICADO: Cancelación de envío por paquetería - ARG.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/282666/post-cancelacion-de-envio-por-paqueteria-arg",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/aff8cc1c63f4af983bcd159e9da3c26f.png",
+        prhase: "H"
+    },
+    {
         id: 152,
         title: "COMUNICADO: Registro de notas privadas para segundos contactos.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/281808/post-actualizacion-del-faq-143977-problemas-con-apps-de-terceros",
