@@ -1,5 +1,19 @@
 export const releases = [
     {
+        id: 155,
+        title: "COMUNICADO: Fallas con equipos UNISOC - ¿Qué hacer?.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/285226/post-fallas-con-equipos-unisoc-que-hacer",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/a4693041dba044a7f5aa23e2b0559b8c.png",
+        prhase: "V"
+    },
+    {
+        id: 154,
+        title: "COMUNICADO: Fallas con WA - Error al descargar medios luego de actualizar.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/284671/post-fallas-con-wa-error-al-descargar-medios-luego-de-actualizar",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/04e6a42275b9cde4c1935aed7a95cc64.png",
+        prhase: "V"
+    },
+    {
         id: 153,
         title: "COMUNICADO: Cancelación de envío por paquetería - ARG.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/282666/post-cancelacion-de-envio-por-paqueteria-arg",
