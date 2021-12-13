@@ -1,5 +1,19 @@
 export const releases = [
     {
+        id: 157,
+        title: "COMUNICADO: Formulario de recolección de datos sobre fallas con red y llamadas - Moto G20.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/290757/post-formulario-de-recoleccion-de-datos-sobre-fallas-con-red-y-llamadas-moto-g20",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/c980ebbeb6ea48184d6316553f365098.png",
+        prhase: "V"
+    },
+    {
+        id: 156,
+        title: "COMUNICADO: Fallas con WA - Notificaciones no suenan.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/288387/post-fallas-con-wa-notificaciones-no-suenan",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/41f292cfd4820c872f0a34808b6f77d8.gif",
+        prhase: "V"
+    },
+    {
         id: 155,
         title: "COMUNICADO: Fallas con equipos UNISOC - ¿Qué hacer?.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/285226/post-fallas-con-equipos-unisoc-que-hacer",
