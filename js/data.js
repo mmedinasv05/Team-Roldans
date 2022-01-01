@@ -1,5 +1,89 @@
 export const releases = [
     {
+        id: 169,
+        title: "COMUNICADO: ACTUALIZACION: Formulario de recolección de datos sobre fallas con red y llamadas - Moto G20.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/298938/post-actualizacion-formulario-de-recoleccion-de-datos-sobre-fallas-con-red-y-llamadas-moto-g20",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/b2cdc2661db2fc5184af6d962fcc042c.png",
+        prhase: "V"
+    },
+    {
+        id: 168,
+        title: "COMUNICADO: Script: Inconvenientes con recolección de equipos Colombia.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/298760/post-script-inconvenientes-con-recoleccion-de-equipos-colombia",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/f9434a37485e947c0dd03d95b35f9198.png",
+        prhase: "V"
+    },
+    {
+        id: 167,
+        title: "COMUNICADO: DOA (ARG) 2021.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/170806/post-doa-arg-2021",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/c710ddcedc56117ab16c9f84e82b5ec8.png",
+        prhase: "H"
+    },
+    {
+        id: 166,
+        title: "COMUNICADO: Registrar correctamente reportes de pantalla negra.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/297997/post-registrar-correctamente-reportes-de-pantalla-negra",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/102bec79d78ee39fe7f04f293f831385.png",
+        prhase: "V"
+    },
+    {
+        id: 165,
+        title: "COMUNICADO: Pruebas públicas - Edge 20.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/294751/post-pruebas-publicas-edge-20",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/66f026e960563ecab8c973690a8c5b9e.png",
+        prhase: "V"
+    },
+    {
+        id: 164,
+        title: "COMUNICADO: Alineación procesos para Razr (Mx. y ARG.).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/295541/post-alineacion-procesos-para-razr-mx-y-arg",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/f6040985cd8ffb38633233628e8838f9.png",
+        prhase: "V"
+    },
+    {
+        id: 163,
+        title: "COMUNICADO: Anuncio oficial del lanzamiento de andriod 12.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/295454/post-anuncio-oficial-del-lanzamiento-de-andriod-12",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/2191bc17c24b9b431d9185aebebb379b.gif",
+        prhase: "V"
+    },
+    {
+        id: 162,
+        title: "Boletín: CHRAEFSB2021-49 - Moto G 5G - Eco con el audio del micrófono.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/294251/post-boletin-chraefsb2021-50-motorola-edge-20-lite-camara-frontal-problemas-con-enfoque-distancia",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/dc8a09ff6afb84cffe4417ee859e0418.png",
+        prhase: "V"
+    },
+    {
+        id: 161,
+        title: "Boletín: CHRAEFSB2021-49 - Moto G 5G - Eco con el audio del micrófono.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/294247/post-boletin-chraefsb2021-49-moto-g-5g-eco-con-el-audio-del-microfono",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/6c338fb93b9f0f4c7b4e7183057732f0.png",
+        prhase: "V"
+    },
+    {
+        id: 160,
+        title: "COMUNICADO: Cambios en modos de color disponibles luego de actualizar a android 11.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/294231/post-cambios-en-modos-de-color-disponibles-luego-de-actualizar-a-android-11",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/10eae6b4ca27eac7f51e7b3a537359a3.png",
+        prhase: "V"
+    },
+    {
+        id: 159,
+        title: "COMUNICADO: Moto E40 - Pasos para restablecimiento externo.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/294227/post-moto-e40-pasos-para-restablecimiento-externo",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/b9e8b0fe8753e9c6131b0ed5aaa0d00c.png",
+        prhase: "V"
+    },
+    {
+        id: 158,
+        title: "COMUNICADO: Inicio de pruebas envío de paquetería vía Urbano. (Argentina).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/293556/post-inicio-de-pruebas-envio-de-paqueteria-via-urbano-argentina",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/6c600fdf6c19f820b9bd8f1c91fb116b.png",
+        prhase: "H"
+    },
+    {
         id: 157,
         title: "COMUNICADO: Formulario de recolección de datos sobre fallas con red y llamadas - Moto G20.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/290757/post-formulario-de-recoleccion-de-datos-sobre-fallas-con-red-y-llamadas-moto-g20",
