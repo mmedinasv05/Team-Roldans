@@ -1,5 +1,47 @@
 export const releases = [
     {
+        id: 175,
+        title: "COMUNICADO: Nuevo template de RNT para escalaciones de RAZR (MX).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/312331/post-nuevo-template-de-rnt-para-escalaciones-de-razr-mx",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/1c5956cd681020a0436edac4992934cf.png",
+        prhase: "H"
+    },
+    {
+        id: 174,
+        title: "COMUNICADO: Edge20/Edge 20pro: CHRAEFSB2021-41 Mejora la sensibilidad al toque en la pantalla.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/311560/post-edge20edge-20pro-chraefsb2021-41-mejora-la-sensibilidad-al-toque-en-la-pantalla",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/488c59fb5815f98c8e16f289b0f5023a.png",
+        prhase: "H"
+    },
+    {
+        id: 173,
+        title: "COMUNICADO: Nueva promoción motorola.com.mx.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/307824/post-recomendaciones-para-hacer-un-fdr",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/b6cfbb198893ef5d24649e1a2924ff4e.png",
+        prhase: "V"
+    },
+    {
+        id: 172,
+        title: "COMUNICADO: Nueva promoción motorola.com.mx.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/304989/post-nueva-promocion-motorolacommx",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/5921581c88443e3bdac7da4c1379110a.png",
+        prhase: "V"
+    },
+    {
+        id: 171,
+        title: "COMUNICADO: Moto G20: Fallas de red persisten luego de actualizar a RTA31.68-29.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/304321/post-moto-g20-fallas-de-red-persisten-luego-de-actualizar-a-rta3168-29",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/051055ea33b2a9a27986a0affd569dbd.png",
+        prhase: "V"
+    },
+    {
+        id: 170,
+        title: "COMUNICADO: Formulario de recolección de datos sobre fallas con descarga rapida y calentamiento - Moto E40.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/301171/post-formulario-de-recoleccion-de-datos-sobre-fallas-con-descarga-rapida-y-calentamiento-moto-e40",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/418d4f2ba4f3311225c801a6f3b3431b.png",
+        prhase: "V"
+    },
+    {
         id: 169,
         title: "COMUNICADO: ACTUALIZACION: Formulario de recolección de datos sobre fallas con red y llamadas - Moto G20.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/298938/post-actualizacion-formulario-de-recoleccion-de-datos-sobre-fallas-con-red-y-llamadas-moto-g20",
