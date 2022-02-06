@@ -106,7 +106,7 @@ body{
 .section-faq .fab,
 .section-faq .far{
     font-size: 20px;
-    margin-bottom: 27px;
+    margin-bottom: 30px;
     color: var(--blue-primary);
     cursor: pointer;
 }
@@ -302,7 +302,7 @@ body{
     background-color: var(--blue-primary);
 }
 .releases{
-    width: 28%;
+    width: 27%;
     margin:  15px 15px 50px 15px;
     box-shadow: 0 4px 5px 2px rgb(0 0 0 / 30%);
     position: relative;
@@ -313,19 +313,19 @@ body{
     border-radius: 8px;
 }
 .releases-h{
-    width: 33%;
+    width: 31%;
     box-shadow: 0 4px 5px 2px rgb(0 0 0 / 21%);
     border-radius: 8px;
     position: relative;;
 }
 .image-release{
     width: 100%;
-    height: 400px;
+    height: 370px;
     border-radius: 8px;
 }
 .image-release-h{
     width: 100%;
-    height: 300px;
+    height: 270px;
     border-radius: 8px;
 }
 .text-release{
