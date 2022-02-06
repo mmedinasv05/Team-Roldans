@@ -42,7 +42,7 @@ const filtrar = ()=>{
 
     if($contentRelease.innerHTML === ""){
         $contentRelease.innerHTML = `
-            <img src="https://www.nicepng.com/png/detail/334-3348426_search-result-icons-error-404-girlfriend-not-found.png" class="image-not-found" />
+            <img src="media/not-found-min.jpg" class="image-not-found" />
         `
         /*<img src="media/not.png" class="image-not-found" /> */
     }
