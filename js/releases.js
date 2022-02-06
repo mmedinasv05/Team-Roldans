@@ -42,7 +42,7 @@ const filtrar = ()=>{
 
     if($contentRelease.innerHTML === ""){
         $contentRelease.innerHTML = `
-            <img src="media/https://cdni.iconscout.com/illustration/premium/thumb/sorry-item-not-found-3328225-2809510.png" class="image-not-found" />
+            <img src="media/not-found.png" class="image-not-found" />
         `
         /*<img src="media/not.png" class="image-not-found" /> 
         <img src="media/not-found-min.jpg" class="image-not-found" />*/
