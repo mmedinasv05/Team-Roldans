@@ -302,7 +302,7 @@ body{
     background-color: var(--blue-primary);
 }
 .releases{
-    width: 30%;
+    width: 28%;
     margin:  15px 15px 50px 15px;
     box-shadow: 0 4px 5px 2px rgb(0 0 0 / 30%);
     position: relative;
