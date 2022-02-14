@@ -3,7 +3,7 @@ export const releases = [
         id: 179,
         title: "COMUNICADO: Requerimientos duplicados para FedEx y Urbano (ARG).",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/316250/post-requerimientos-duplicados-para-fedex-y-urbano-arg",
-        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/5570ad77b78e98025af7310560472b86.png",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/7fc535019501da601d64fc4fe934336a.png",
         prhase: "H"
     },
     {
