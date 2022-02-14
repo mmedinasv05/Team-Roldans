@@ -1,5 +1,33 @@
 export const releases = [
     {
+        id: 179,
+        title: "COMUNICADO: Requerimientos duplicados para FedEx y Urbano (ARG).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/316250/post-requerimientos-duplicados-para-fedex-y-urbano-arg",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/5570ad77b78e98025af7310560472b86.png",
+        prhase: "H"
+    },
+    {
+        id: 178,
+        title: "COMUNICADO: Ojo con estos detalles al referir al MASC en ARG.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/315668/post-ojo-con-estos-detalles-al-referir-al-masc-en-arg",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/94cd9754bb44865408fcb6145fe6bc8e.gif",
+        prhase: "V"
+    },
+    {
+        id: 177,
+        title: "COMUNICADO: Manejando reportes de robo o extravío (FAQ: 164155).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/315648/post-manejando-reportes-de-robo-o-extravio-faq-164155",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/8a98fb7197ac78b35d18e9f52eac2101.png",
+        prhase: "H"
+    },
+    {
+        id: 176,
+        title: "COMUNICADO: Moto G60s - Reinicios aleatorios (Boletín: UKRAEFSB2022-3).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/314109/post-moto-g60s-reinicios-aleatorios-boletin-ukraefsb2022-3",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/9567eb2c105d4ded4ab0f8a024c42f68.png",
+        prhase: "H"
+    },
+    {
         id: 175,
         title: "COMUNICADO: Nuevo template de RNT para escalaciones de RAZR (MX).",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/312331/post-nuevo-template-de-rnt-para-escalaciones-de-razr-mx",
