@@ -1,5 +1,12 @@
 export const releases = [
     {
+        id: 180,
+        title: "COMUNICADO: One fusión + Equipo se queda sin señal luego de la actualización.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/318393/post-one-fusion-equipo-se-queda-sin-senal-luego-de-la-actualizacion",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/b61ea6fd2cc985080109b02922218678.png",
+        prhase: "V"
+    },
+    {
         id: 179,
         title: "COMUNICADO: Requerimientos duplicados para FedEx y Urbano (ARG).",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/316250/post-requerimientos-duplicados-para-fedex-y-urbano-arg",
