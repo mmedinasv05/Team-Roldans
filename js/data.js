@@ -1,5 +1,26 @@
 export const releases = [
     {
+        id: 183,
+        title: "COMUNICADO: G9 power - Fallas de carga.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/322414/post-g9-power-fallas-de-carga",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/6d47323ad79c8f2842174afb1ffc933e.png",
+        prhase: "V"
+    },
+    {
+        id: 182,
+        title: "COMUNICADO: Motorola Exclusive (Movip) - Argentina.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/321493/post-motorola-exclusive-movip-argentina",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/dec14d7bf6289c7a3aa19127d39c99a4.png",
+        prhase: "V"
+    },
+    {
+        id: 181,
+        title: "COMUNICADO: OJO al enviar correos.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/320775/post-ojo-al-enviar-correos",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/de1d590fce7113b959871e7956dc770d.png",
+        prhase: "H"
+    },
+    {
         id: 180,
         title: "COMUNICADO: One fusión + Equipo se queda sin señal luego de la actualización.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/318393/post-one-fusion-equipo-se-queda-sin-senal-luego-de-la-actualizacion",
