@@ -1,5 +1,26 @@
 export const releases = [
     {
+        id: 185,
+        title: "COMUNICADO: Netflix muestra el mensaje: Esta aplicación no es compatible con tu dispositivo.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/327976/post-netflix-muestra-el-mensaje-esta-aplicacion-no-es-compatible-con-tu-dispositivo",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/8335496565d531549afc757ca5953987.gif",
+        prhase: "H"
+    },
+    {
+        id: 185,
+        title: "COMUNICADO: CHRAEFSB2022-6 Error del servidor de búsqueda de Google play store Motorola Edge 20.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/326909/post-chraefsb2022-6-error-del-servidor-de-busqueda-de-google-play-store-motorola-edge-20",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/a575f5471e545f9e1af362f64cbaaaa5.png",
+        prhase: "H"
+    },
+    {
+        id: 184,
+        title: "COMUNICADO: CHRAEFSB2022-5: Error con la aplicación cámara al encender - Motorola Edge 30 Pro.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/325895/post-chraefsb2022-5-error-con-la-aplicacion-camara-al-encender-motorola-edge-30-pro",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/8c4f01b22107b2aabdf4c3483f2427d3.png",
+        prhase: "H"
+    },
+    {
         id: 183,
         title: "COMUNICADO: G9 power - Fallas de carga.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/322414/post-g9-power-fallas-de-carga",
