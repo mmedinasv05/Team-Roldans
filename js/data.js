@@ -1,5 +1,33 @@
 export const releases = [
     {
+        id: 189,
+        title: "COMUNICADO: Nuevo SW con mejoras al audio - E40/E30.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/340428/post-nuevo-sw-con-mejoras-al-audio-e40e30",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/42c0bae126da703a49aec884369a62cf.png",
+        prhase: "V"
+    },
+    {
+        id: 188,
+        title: "COMUNICADO: Cambios en las config. de Color en pantalla - Android 12.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/339898/post-cambios-en-las-config-de-color-en-pantalla-android-12",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/5487655254ed5a1eabd9811f4ea006c5.png",
+        prhase: "H"
+    },
+    {
+        id: 187,
+        title: "COMUNICADO: Nuevo template de notas privadas.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/337169/post-nuevo-template-de-notas-privadas",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/508c0f94d5a6ca821885e59ffa6dc2c8.png",
+        prhase: "H"
+    },
+    {
+        id: 186,
+        title: "COMUNICADO: CHRAEFSB2022-7: Eco en el audio de llamadas - Moto E30/E44.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/336462/post-chraefsb2022-7-eco-en-el-audio-de-llamadas-moto-e30e44",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/11bf574e6e8d79e21d5a979efb4bf169.png",
+        prhase: "H"
+    },
+    {
         id: 185,
         title: "COMUNICADO: Netflix muestra el mensaje: Esta aplicación no es compatible con tu dispositivo.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/327976/post-netflix-muestra-el-mensaje-esta-aplicacion-no-es-compatible-con-tu-dispositivo",
