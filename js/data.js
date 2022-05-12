@@ -1,5 +1,103 @@
 export const releases = [
     {
+        id: 202,
+        title: "COMUNICADO: Moto G20 - Actualización software con mejoras y lanzamiento de nuevo software.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/354950/post-moto-g20-actualizacion-software-con-mejoras-y-lanzamiento-de-nuevo-software",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/b75c7282de04c41adcc57653a03d9348.png",
+        prhase: "H"
+    },
+    {
+        id: 202,
+        title: "COMUNICADO: Resoluciones y reglas de edición 2022.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/352430/post-resoluciones-y-reglas-de-edicion-2022",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/c6ee97f99619c8bd7a12aba575eb47f2.png",
+        prhase: "V"
+    },
+    {
+        id: 201,
+        title: "COMUNICADO: Cómo referir al cliente a revisión utilizando Urbano Express. (Script).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/352402/post-como-referir-al-cliente-a-revision-utilizando-urbano-express-script",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/2b6c7402a5e5358f29a9de69ea78aa2c.png",
+        prhase: "H"
+    },
+    {
+        id: 200,
+        title: "COMUNICADO: Moto E20 - Moto E40: Alerta de bloqueo de IMEIs - Colombia.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/348370/post-moto-e20-moto-e40-alerta-de-bloqueo-de-imeis-colombia",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/c4ddea2d532cfae5b89ea3d6a7c3ffae.png",
+        prhase: "V"
+    },
+    {
+        id: 199,
+        title: "COMUNICADO: moto watch 100 Garantía Colombia.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/346665/post-moto-watch-100-garantia-colombia",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/46db541cd3b2d2998a648be5a13efbe8.png",
+        prhase: "V"
+    },
+    {
+        id: 198,
+        title: "COMUNICADO: Actualización proceso urbano.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/346659/post-actualizacion-proceso-urbano",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/799276dfad5bf558e625a6ac9a74c62b.png",
+        prhase: "V"
+    },
+    {
+        id: 197,
+        title: "COMUNICADO: Nuevo número de soporte para accesorios - México.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/345801/post-nuevo-numero-de-soporte-para-accesorios-mexico",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/300e561ae22dba304d87d47c18213948.png",
+        prhase: "V"
+    },
+    {
+        id: 196,
+        title: "COMUNICADO: Garantia edge 30 - México.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/345803/post-garantia-edge-30-mexico",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/66cb851e6a95fcad10410523183fecab.png",
+        prhase: "V"
+    },
+    {
+        id: 195,
+        title: "COMUNICADO: Escalación de casos sin info de status de reparación.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/345611/post-escalacion-de-casos-sin-info-de-status-de-reparacion",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/22f7c6cfec730ba87db579278275e6e2.png",
+        prhase: "H"
+    },
+    {
+        id: 194,
+        title: "COMUNICADO: Alerta! lanzamiento RTA31.68-34 (MR7) en Chile.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/344741/post-alerta-lanzamiento-rta3168-34-mr7-en-chile",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/b6aa1bfcf2c64fa0cbb70f176a4f628d.gif",
+        prhase: "H"
+    },
+    {
+        id: 193,
+        title: "COMUNICADO: LARAEFSB2022-10: Al intentar reproducir videos en instagram estos se quedan congelados - Moto G22.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/344209/post-laraefsb2022-10-al-intentar-reproducir-videos-en-instagram-estos-se-quedan-congelados-moto-g22",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/3b95d7e6520fce58cd304cf775cd7185.png",
+        prhase: "H"
+    },
+    {
+        id: 192,
+        title: "COMUNICADO: LARAEFSB2022-9: Mensaje de error al usar el zoom de la cámara precargada - Moto G22.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/344193/post-laraefsb2022-9-mensaje-de-error-al-usar-el-zoom-de-la-camara-precargada-moto-g22",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/0ac572f5af01beb8f66477c046b33948.png",
+        prhase: "H"
+    },
+    {
+        id: 191,
+        title: "COMUNICADO: Reportes de reinicios o apagados aleatorios moto G30.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/342848/post-reportes-de-reinicios-o-apagados-aleatorios-moto-g30",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/d58a75327cb6a3200e82a7aaee85033d.png",
+        prhase: "V"
+    },
+    {
+        id: 190,
+        title: "COMUNICADO: Cambio de FedEx a Urbano.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/342786/post-cambio-de-fedex-a-urbano",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/f2f9a3db56dcb2088e0b547272af8273.png",
+        prhase: "V"
+    },
+    {
         id: 189,
         title: "COMUNICADO: Nuevo SW con mejoras al audio - E40/E30.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/340428/post-nuevo-sw-con-mejoras-al-audio-e40e30",
