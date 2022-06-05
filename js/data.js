@@ -1,5 +1,40 @@
 export const releases = [
     {
+        id: 207,
+        title: "COMUNICADO: Nuevo script de referencia por paquetería - México.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/364242/post-nuevo-script-de-referencia-por-paqueteria-mexico",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/0dd4788fa4258d15869c160e5743b4bc.png",
+        prhase: "H"
+    },
+    {
+        id: 206,
+        title: "COMUNICADO: Canalización correcta para la línea Edge - ARGENTINA.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/360718/post-canalizacion-correcta-para-la-linea-edge-argentina",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/a549cb3fdb7e8e02091a6242242c098f.png",
+        prhase: "V"
+    },
+    {
+        id: 205,
+        title: "COMUNICADO: Moto G22 Pantalla parpadea/ titilea.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/359449/post-moto-g22-pantalla-parpadea-titilea",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/ac0c01de968b974d75d35eb227171570.PNG",
+        prhase: "V"
+    },
+    {
+        id: 204,
+        title: "COMUNICADO: Moto Watch 100 - Compatibilidad.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/356361/post-moto-watch-100-compatibilidad",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/9d4604399c6a85140f359223fa8ab67a.png",
+        prhase: "V"
+    },
+    {
+        id: 203,
+        title: "COMUNICADO: Uso de correos corporativos en equipos Android GO.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/355208/post-uso-de-correos-corporativos-en-equipos-android-go",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/c400e8f693edf3865a4f510b5bdb76d4.png",
+        prhase: "H"
+    },
+    {
         id: 202,
         title: "COMUNICADO: Moto G20 - Actualización software con mejoras y lanzamiento de nuevo software.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/354950/post-moto-g20-actualizacion-software-con-mejoras-y-lanzamiento-de-nuevo-software",
