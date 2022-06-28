@@ -1,5 +1,26 @@
 export const releases = [
     {
+        id: 210,
+        title: "COMUNICADO: Moto G52 - Boletín: ALLRAEFSB2022-17 - Vibración en la cubierta trasera al reproducir audios a volúmen alto.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/375644/post-moto-g52-boletin-allraefsb2022-17-vibracion-en-la-cubierta-trasera-al-reproducir-audios-a-volumen-alto",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/a738a573f11469a1a61c6d1e2b25c7aa.png",
+        prhase: "H"
+    },
+    {
+        id: 209,
+        title: "COMUNICADO: Creando pre ordenes de servicio en RNT - México.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/375381/post-creando-pre-ordenes-de-servicio-en-rnt-mexico",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/efa2868670a7a46fa40ec3dd7eab8b54.png",
+        prhase: "H"
+    },
+    {
+        id: 208,
+        title: "COMUNICADO: Moto G22 - parpadeo aleatorio de la pantalla. Boletín: CHRAEFSB2022-15.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/368807/post-moto-g22-parpadeo-aleatorio-de-la-pantalla-boletin-chraefsb2022-15",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/9cabd32d2c1f94e5c2631607b7b40f14.png",
+        prhase: "H"
+    },
+    {
         id: 207,
         title: "COMUNICADO: Nuevo script de referencia por paquetería - México.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/364242/post-nuevo-script-de-referencia-por-paqueteria-mexico",
