@@ -1,5 +1,47 @@
 export const releases = [
     {
+        id: 216,
+        title: "COMUNICADO: Nuevo acceso a MF en RNT.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/383554/post-nuevo-acceso-a-mf-en-rnt",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/83412fab756f8d221f7234dbedbfd9d7.jpg",
+        prhase: "V"
+    },
+    {
+        id: 215,
+        title: "COMUNICADO: Proceso de pre cotización para equipos fuera de garantía - México. (Chat).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/382122/post-proceso-de-pre-cotizacion-para-equipos-fuera-de-garantia-mexico-chat",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/1b427e22157c30818cc3fccaf0fa587c.png",
+        prhase: "V"
+    },
+    {
+        id: 214,
+        title: "COMUNICADO: Proceso de pre cotización para equipos fuera de garantía - México. (Llamadas).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/382103/post-proceso-de-pre-cotizacion-para-equipos-fuera-de-garantia-mexico-llamadas",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/93b2cc42aa22a7912066b154026a9571.png",
+        prhase: "V"
+    },
+    {
+        id: 213,
+        title: "COMUNICADO: Moto G505g - Fallas con NFC y Google Pay.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/381925/post-moto-g505g-fallas-con-nfc-y-google-pay",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/3e1329edd521d94b43788e704bf9d9ef.png",
+        prhase: "V"
+    },
+    {
+        id: 212,
+        title: "COMUNICADO: FAQ: 166606 Inconvenientes con el registro de equipos en el sitio web.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/381173/post-faq-166606-inconvenientes-con-el-registro-de-equipos-en-el-sitio-web",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/44823ae35a36f54832b5d58c8d5efddb.png",
+        prhase: "H"
+    },
+    {
+        id: 211,
+        title: "COMUNICADO: Moto E40 - Pasos para realizar un establecimiento externo.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/380759/post-moto-e40-pasos-para-realizar-un-establecimiento-externo",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/1a9620ca6b81fbef48252b312d801b0f.gif",
+        prhase: "V"
+    },
+    {
         id: 210,
         title: "COMUNICADO: Moto G52 - Boletín: ALLRAEFSB2022-17 - Vibración en la cubierta trasera al reproducir audios a volúmen alto.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/375644/post-moto-g52-boletin-allraefsb2022-17-vibracion-en-la-cubierta-trasera-al-reproducir-audios-a-volumen-alto",
