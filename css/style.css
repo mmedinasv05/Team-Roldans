@@ -270,7 +270,7 @@ body{
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
-    padding: 30px 0 30px 0;
+    padding: 30px 10px 30px 10px;
     overflow-y: scroll;
     position: relative;
     scroll-behavior: smooth;

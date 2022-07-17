@@ -1,5 +1,12 @@
 export const releases = [
     {
+        id: 217,
+        title: "COMUNICADO: Moto G30 - Lanzamiento de SW:S0RC32.41-10-18.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/385614/post-moto-g30-lanzamiento-de-sws0rc3241-10-18",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/e5a0725c5db507627430865c0431e8c5.png",
+        prhase: "H"
+    },
+    {
         id: 216,
         title: "COMUNICADO: Nuevo acceso a MF en RNT.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/383554/post-nuevo-acceso-a-mf-en-rnt",
