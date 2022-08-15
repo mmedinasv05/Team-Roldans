@@ -1,5 +1,26 @@
 export const releases = [
     {
+        id: 220,
+        title: "COMUNICADO: Soporte Motowatch 100.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/399471/post-soporte-motowatch-100",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/e8875aa8e732e5031660594ca5c9adad.jpg",
+        prhase: "H"
+    },
+    {
+        id: 219,
+        title: "COMUNICADO: MOTO G51 5G - Reportes de apagos y reinicios aleatorios o unidades que dejan de respoder.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/398212/post-moto-g51-5g-reportes-de-apagos-y-reinicios-aleatorios-o-unidades-que-dejan-de-respoder",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/0bb337a3ef49bd5f4629aacfaf9ea5d0.png",
+        prhase: "H"
+    },
+    {
+        id: 218,
+        title: "COMUNICADO: Cambios template notas privadas.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/392715/post-cambios-template-notas-privadas",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/22ae7d59e14037c7131d454a0a131df5.jpg",
+        prhase: "V"
+    },
+    {
         id: 217,
         title: "COMUNICADO: Moto G30 - Lanzamiento de SW:S0RC32.41-10-18.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/385614/post-moto-g30-lanzamiento-de-sws0rc3241-10-18",
