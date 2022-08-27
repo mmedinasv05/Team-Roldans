@@ -1,10 +1,17 @@
 export const releases = [
     {
+        id: 221,
+        title: "COMUNICADO: Nuevo campo de RNT - log me in.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/400341/post-nuevo-campo-de-rnt-log-me-in",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/7b8a0b088f3a3fecd3f9a51547d57da7.png",
+        prhase: "V"
+    },
+    {
         id: 220,
         title: "COMUNICADO: Soporte Motowatch 100.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/399471/post-soporte-motowatch-100",
         image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/e8875aa8e732e5031660594ca5c9adad.jpg",
-        prhase: "H"
+        prhase: "V"
     },
     {
         id: 219,
