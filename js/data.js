@@ -1,73 +1,45 @@
 export const releases = [
     {
-        id: 221,
-        title: "COMUNICADO: Nuevo campo de RNT - log me in.",
-        urlBeedoo: "https://atentoop10.beedoo.io/feed/400341/post-nuevo-campo-de-rnt-log-me-in",
-        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/7b8a0b088f3a3fecd3f9a51547d57da7.png",
-        prhase: "V"
-    },
-    {
-        id: 220,
-        title: "COMUNICADO: Soporte Motowatch 100.",
-        urlBeedoo: "https://atentoop10.beedoo.io/feed/399471/post-soporte-motowatch-100",
-        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/e8875aa8e732e5031660594ca5c9adad.jpg",
-        prhase: "V"
-    },
-    {
-        id: 219,
-        title: "COMUNICADO: MOTO G51 5G - Reportes de apagos y reinicios aleatorios o unidades que dejan de respoder.",
-        urlBeedoo: "https://atentoop10.beedoo.io/feed/398212/post-moto-g51-5g-reportes-de-apagos-y-reinicios-aleatorios-o-unidades-que-dejan-de-respoder",
-        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/0bb337a3ef49bd5f4629aacfaf9ea5d0.png",
-        prhase: "H"
-    },
-    {
-        id: 218,
-        title: "COMUNICADO: Cambios template notas privadas.",
-        urlBeedoo: "https://atentoop10.beedoo.io/feed/392715/post-cambios-template-notas-privadas",
-        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/22ae7d59e14037c7131d454a0a131df5.jpg",
-        prhase: "V"
-    },
-    {
-        id: 217,
-        title: "COMUNICADO: Moto G30 - Lanzamiento de SW:S0RC32.41-10-18.",
-        urlBeedoo: "https://atentoop10.beedoo.io/feed/385614/post-moto-g30-lanzamiento-de-sws0rc3241-10-18",
-        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/e5a0725c5db507627430865c0431e8c5.png",
-        prhase: "H"
-    },
-    {
         id: 216,
-        title: "COMUNICADO: Nuevo acceso a MF en RNT.",
-        urlBeedoo: "https://atentoop10.beedoo.io/feed/383554/post-nuevo-acceso-a-mf-en-rnt",
-        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/83412fab756f8d221f7234dbedbfd9d7.jpg",
-        prhase: "V"
+        title: "COMUNICADO: RNT: Scripts promoción de encuesta y FCR.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/420820/post-scripts-promocion-de-encuesta-y-fcr",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/2ed4c403dddb022a0b439e7e44d80d4f.png",
+        prhase: "H"
     },
     {
         id: 215,
-        title: "COMUNICADO: Proceso de pre cotización para equipos fuera de garantía - México. (Chat).",
-        urlBeedoo: "https://atentoop10.beedoo.io/feed/382122/post-proceso-de-pre-cotizacion-para-equipos-fuera-de-garantia-mexico-chat",
-        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/1b427e22157c30818cc3fccaf0fa587c.png",
-        prhase: "V"
+        title: "COMUNICADO: RNT: actualización campo de RNT: Problema causado por.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/419647/post-actualizacion-campo-de-rnt-problema-causado-por",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/763e160da81c67423098687cad632747.png",
+        prhase: "H"
     },
     {
         id: 214,
-        title: "COMUNICADO: Proceso de pre cotización para equipos fuera de garantía - México. (Llamadas).",
-        urlBeedoo: "https://atentoop10.beedoo.io/feed/382103/post-proceso-de-pre-cotizacion-para-equipos-fuera-de-garantia-mexico-llamadas",
-        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/93b2cc42aa22a7912066b154026a9571.png",
+        title: "COMUNICADO: RNT: Mensaje de error al instalar una actualización de SW.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/419303/post-mensaje-de-error-al-instalar-una-actualizacion-de-sw",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/71ef64095a3f90ac168d9f28488c764c.png",
         prhase: "V"
     },
     {
         id: 213,
-        title: "COMUNICADO: Moto G505g - Fallas con NFC y Google Pay.",
-        urlBeedoo: "https://atentoop10.beedoo.io/feed/381925/post-moto-g505g-fallas-con-nfc-y-google-pay",
-        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/3e1329edd521d94b43788e704bf9d9ef.png",
+        title: "COMUNICADO: RNT: Nuevo Campo LAS MASC.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/413593/post-rnt-nuevo-campo-las-masc",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/efb3445a937c8e76774149ecb1cea8c5.png",
         prhase: "V"
     },
     {
         id: 212,
+        title: "COMUNICADO: Moto E20, E40, G20,G30 - Equipo se apaga y no responde despues de actualizar.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/411314/post-moto-e20-e40-g20g30-equipo-se-apaga-y-no-responde-despues-de-actualizar",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/46ece79880fc4540afa6f498ddb93bc6.png",
+        prhase: "V"
+    },
+    {
+        id: 211,
         title: "COMUNICADO: FAQ: 166606 Inconvenientes con el registro de equipos en el sitio web.",
-        urlBeedoo: "https://atentoop10.beedoo.io/feed/381173/post-faq-166606-inconvenientes-con-el-registro-de-equipos-en-el-sitio-web",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/380759/post-moto-e40-pasos-para-realizar-un-establecimiento-externo",
         image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/44823ae35a36f54832b5d58c8d5efddb.png",
-        prhase: "H"
+        prhase: "V"
     },
     {
         id: 211,
