@@ -1,10 +1,38 @@
 export const releases = [
     {
+        id: 220,
+        title: "COMUNICADO: RNT: Moto E20: Pruebas públicas nuevo software moto E20.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/428405/post-moto-e20-pruebas-publicas-nuevo-software-moto-e20",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/ab8e38500b75cedbca5c5919eaf18f7c.jpg",
+        prhase: "H"
+    },
+    {
+        id: 219,
+        title: "COMUNICADO: RNT: Moto G42 Boletín: CHRAEFSB2022-31.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/427782/post-moto-g42-boletin-chraefsb2022-31",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/16f0dd01baeb1d7fe9c749b634e35f02.jpg",
+        prhase: "H"
+    },
+    {
+        id: 218,
+        title: "COMUNICADO: RNT: Motorola Edge30 Ultra. Boletín: CHRAEFSB2022-32.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/427780/post-motorola-edge30-ultra-boletin-chraefsb2022-32",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/58ddee39be97fb2e524ba77d1a9b8ac0.jpg",
+        prhase: "H"
+    },
+    {
+        id: 217,
+        title: "COMUNICADO: RNT: Motorola Edge X30, Motorola Edge 30 Pro, Motorola Edge 30 Plus - Boletin CHRAEFSB2022-33.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/427749/post-motorola-edge-x30-motorola-edge-30-pro-motorola-edge-30-plus-boletin-chraefsb2022-33",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/abd619b2aadbaee3b9275437df2d9be9.jpg",
+        prhase: "V"
+    },
+    {
         id: 216,
         title: "COMUNICADO: RNT: Scripts promoción de encuesta y FCR.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/420820/post-scripts-promocion-de-encuesta-y-fcr",
         image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/2ed4c403dddb022a0b439e7e44d80d4f.png",
-        prhase: "H"
+        prhase: "V"
     },
     {
         id: 215,
