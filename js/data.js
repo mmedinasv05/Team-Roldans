@@ -1,5 +1,82 @@
 export const releases = [
     {
+        id: 231,
+        title: "COMUNICADO: Servicio de fuera de garantia para Argentina..",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/451536/post-servicio-de-fuera-de-garantia-para-argentina",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/e5af1c3c7eed3aab1bd868adc59969b4.png",
+        prhase: "H"
+    },
+    {
+        id: 230,
+        title: "COMUNICADO: OJO CON LAS ORDENES PRE SO.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/450777/post-ojo-con-las-ordenes-pre-so",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/b78e8cd8abc0aa10c4c470d701d358f7.png",
+        prhase: "V"
+    },
+    {
+        id: 229,
+        title: "COMUNICADO: Nuevo campo en MotoFocus última versión de SW disponible.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/450641/post-nuevo-campo-en-motofocus-ultima-version-de-sw-disponible",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/a1caba7d78b17b1cb88e65f294de24c4.png",
+        prhase: "H"
+    },
+    {
+        id: 228,
+        title: "COMUNICADO: Nuevo campo en RNT: # de calle.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/450193/post-nuevo-campo-en-rnt-de-calle",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/5791714763de51e4a32290b91e4cf718.png",
+        prhase: "V"
+    },
+    {
+        id: 227,
+        title: "COMUNICADO: Modelos Edge 30 se deben transferir a L2.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/449142/post-modelos-edge-30-se-deben-transferir-a-l2",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/1108c00e8763f35abe65a49d7d189bb0.png",
+        prhase: "V"
+    },
+    {
+        id: 226,
+        title: "COMUNICADO: Transferencias directas con N2.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/443293/post-transferencias-directas-con-n2",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/0feb0c2ee0431dc9c364e649eea2e52b.png",
+        prhase: "H"
+    },
+    {
+        id: 225,
+        title: "COMUNICADO: Problemas al registrar IMEI en pagina de motorola exclusive.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/438685/post-problemas-al-registrar-imei-en-pagina-de-motorola-exclusive",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/f6ee0314ff04043bc89814909d88d834.png",
+        prhase: "V"
+    },
+    {
+        id: 224,
+        title: "COMUNICADO: Procesando una llamada de equipos fuera de garantia - Mexico.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/435617/post-procesando-una-llamada-de-equipos-fuera-de-garantia-mexico",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/fd04e54c20640dc05796b72a49449c4e.png",
+        prhase: "H"
+    },
+    {
+        id: 223,
+        title: "COMUNICADO: Nueva linea de soporte a ventas (ecommerce) - México.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/434842/post-nueva-linea-de-soporte-a-ventas-ecommerce-mexico",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/60c2a76659ee6fe22ae1da2896653283.png",
+        prhase: "V"
+    },
+    {
+        id: 222,
+        title: "COMUNICADO: Moto G71 5G - Apagados aleatorios durante actualización.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/433198/post-moto-g71-5g-apagados-aleatorios-durante-actualizacion",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/4400885b5f887c62094c1935d9fb6faa.jpg",
+        prhase: "V"
+    },
+    {
+        id: 221,
+        title: "COMUNICADO: Script de referencia a revisión técnica por paquetería - Mexico.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/429345/post-script-de-referencia-a-revision-tecnica-por-paqueteria-mexico",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/931ed9b879a125127656e37918b2fcab.jpg",
+        prhase: "V"
+    },
+    {
         id: 220,
         title: "COMUNICADO: RNT: Moto E20: Pruebas públicas nuevo software moto E20.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/428405/post-moto-e20-pruebas-publicas-nuevo-software-moto-e20",
