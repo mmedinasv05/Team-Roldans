@@ -1,7 +1,147 @@
 export const releases = [
     {
+        id: 251,
+        title: "COMUNICADO: Cierre SAM BELGRANO por vacación.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/487705/post-cierre-sam-belgrano-por-vacacion",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/44096d56b470b77f7ea0a280e9c76f73.png",
+        prhase: "V"
+    },
+    {
+        id: 250,
+        title: "COMUNICADO: Moto G22 - Software con mejoras.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/486387/post-moto-g22-software-con-mejoras",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/3a2ada970895c749cc2b2534fd62082d.png",
+        prhase: "V"
+    },
+    {
+        id: 249,
+        title: "COMUNICADO: Moto Edge 30 - Mala calidad de audio en llamadas de whatsapp.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/486372/post-moto-edge-30-mala-calidad-de-audio-en-llamadas-de-whatsapp",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/8afa7b5b33dc63888c45724db34990b6.png",
+        prhase: "V"
+    },
+    {
+        id: 248,
+        title: "COMUNICADO: Moto G50 5G - Toque fantasma o pantalla no responde.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/485690/post-moto-g50-5g-toque-fantasma-o-pantalla-no-response",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/d47a1dbaf8fb375322cf1d6141ed4aac.png",
+        prhase: "V"
+    },
+    {
+        id: 247,
+        title: "COMUNICADO: Moto Edge 30: Garantía extendida y cobertura de pantalla para la familia - Colombia.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/481543/post-moto-edge-30-garantia-extendida-y-cobertura-de-pantalla-para-la-familia-colombia",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/b2c90bd58c6d8b1be86437ea0f77284f.JPG",
+        prhase: "H"
+    },
+    {
+        id: 246,
+        title: "COMUNICADO: Boletín INRAEFSB2023-2: Moto G72 El equipo no carga o carga lento.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/479950/post-boletin-inraefsb2023-2-moto-g72-el-equipo-no-carga-o-carga-lento",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/9001d7f989857962b2fb9eebbd3e7a94.jpg",
+        prhase: "H"
+    },
+    {
+        id: 245,
+        title: "COMUNICADO: Dónde confirmar si un equipo tiene servicio de protección extendida (ESP).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/478433/post-donde-confirmar-si-un-equipo-tiene-servicio-de-proteccion-extendida-esp",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/be94187f1153c245110f81a73fabd95d.png",
+        prhase: "V"
+    },
+    {
+        id: 244,
+        title: "COMUNICADO: Problemas al registrar una VPN en los moto g50 5G actualizados a Android 12.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/475256/post-problemas-al-registrar-una-vpn-en-los-moto-g50-5g-actualizados-a-android-12",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/6766df924c83d0a8f2c129cb1f820be4.png",
+        prhase: "V"
+    },
+    {
+        id: 243,
+        title: "COMUNICADO: OJO! Registro de #de Whatsapp en ordenes pre SO.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/473923/post-ojo-registro-de-de-whatsapp-en-ordenes-pre-so",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/44d36318fbc0419f55dc0363d04439f4.png",
+        prhase: "V"
+    },
+    {
+        id: 242,
+        title: "COMUNICADO: Nueva dirección de Grego Quilmes.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/473570/post-nueva-direccion-de-grego-quilmes",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/edb6068d240bcf0ebf96ffbdf54bab95.png",
+        prhase: "V"
+    },
+    {
+        id: 241,
+        title: "COMUNICADO: Cambio de dirección Technic La Plata.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/472840/post-cambio-de-direccion-technic-la-plata",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/5a1035ac408427c8b808d84ac6bf91db.png",
+        prhase: "V"
+    },
+    {
+        id: 240,
+        title: "COMUNICADO: Proceso de fallas intermitentes y pasos pendientes.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/468273/post-proceso-de-fallas-intermitentes-y-pasos-pendientes",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/036e132306a1dd00d65b03902ad7e8a6.png",
+        prhase: "V"
+    },
+    {
+        id: 239,
+        title: "COMUNICADO: Rescue cambio su nombre a HRAI.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/467608/post-rescue-cambio-su-nombre-a-hrai",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/6389cbf6283b9088b78f4fc096ad2b5f.png",
+        prhase: "V"
+    },
+    {
+        id: 238,
+        title: "COMUNICADO: Refencias al MASC Mar de Plata - Argentina.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/467110/post-refencias-al-masc-argentina",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/d992e535fe8a6a17c0247ff854461a51.png",
+        prhase: "V"
+    },
+    {
+        id: 237,
+        title: "COMUNICADO: Version 2.0 de Agent Assist.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/466961/post-version-20-de-agent-assist",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/4c583852356128d39cdd1bcc61d0c22f.PNG",
+        prhase: "H"
+    },
+    {
+        id: 236,
+        title: "COMUNICADO: Categorias de ecommerce.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/463364/post-categorias-de-ecommerce",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/c8cad0bfbb533da8eee73d5d05b0400f.png",
+        prhase: "V"
+    },
+    {
+        id: 235,
+        title: "COMUNICADO: OJO! trabajos en la red de movistar México.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/462801/post-ojo-trabajos-en-la-red-de-movistar-mexico",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/5be8247a158e2d9d04798e1e85841d00.png",
+        prhase: "V"
+    },
+    {
+        id: 234,
+        title: "COMUNICADO: Nuevo campo de RNT: Fuera de region.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/453225/post-nuevo-campo-de-rnt-fuera-de-region",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/89b210a89ff1b560324e0579f0e0b0a5.png",
+        prhase: "V"
+    },
+    {
+        id: 233,
+        title: "COMUNICADO: Motorola Razr2022 - Boletín: CHRAEFSB2022-34 - No se pueden copiar datos y aplicaciones a través de USB.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/452772/post-motorola-razr2022-boletin-chraefsb2022-34-no-se-pueden-copiar-datos-y-aplicaciones-a-traves-de-usb-conexion",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/eb87fcee407c64d2398742704536b890.png",
+        prhase: "H"
+    },
+    {
+        id: 232,
+        title: "COMUNICADO: Moto Razr 2022 - Boletín:CHRAEFSB2022-37 - Vibrador deja de funcionar de forma intermitente o no funciona.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/452768/post-moto-razr-2022-boletinchraefsb2022-37-vibrador-deja-de-funcionar-de-forma-intermitente-o-no-funciona",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/aff008b511cd4d36ac9475019adfde13.png",
+        prhase: "H"
+    },
+    {
         id: 231,
-        title: "COMUNICADO: Servicio de fuera de garantia para Argentina..",
+        title: "COMUNICADO: Servicio de fuera de garantia para Argentina.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/451536/post-servicio-de-fuera-de-garantia-para-argentina",
         image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/e5af1c3c7eed3aab1bd868adc59969b4.png",
         prhase: "H"
