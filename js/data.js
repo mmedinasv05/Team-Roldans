@@ -1,5 +1,54 @@
 export const releases = [
     {
+        id: 258,
+        title: "COMUNICADO: Nuevo formulario llamadas salientes (N1).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/508055/post-nuevo-formulario-llamadas-salientes-n1",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/47646c4b857b318328460458785e4c8c.png",
+        prhase: "V"
+    },
+    {
+        id: 257,
+        title: "COMUNICADO: CANALES DE COMUNICACIÓN ECOMM PERÚ.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/502884/post-canales-de-comunicacion-ecomm-peru",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/94f3df8c2264f0192840bc7d7c06ffaa.png",
+        prhase: "V"
+    },
+    {
+        id: 256,
+        title: "COMUNICADO: Canalización línea EDGE/RAZR a BOT Exclusive.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/501966/post-canalizacion-linea-edgerazr-a-bot-exclusive",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/3f806cb9411b0f2d61f9691ceb08e9ca.png",
+        prhase: "V"
+    },
+    {
+        id: 255,
+        title: "COMUNICADO: Pantalla no responde o responde lento - Edge 30 Neo.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/500150/post-pantalla-no-responde-o-responde-lento-edge-30-neo",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/feb389e4ca313c8a7e3e9a67d3b78ae0.jpg",
+        prhase: "H"
+    },
+    {
+        id: 254,
+        title: "COMUNICADO: Nuevos formularios para solicitud de callback para líneas especializadas.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/496909/post-nuevos-formularios-para-solicitud-de-callback-para-lineas-especializadas",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/a203ddee3e8e3571e6ee49f8a249885b.png",
+        prhase: "V"
+    },
+    {
+        id: 253,
+        title: "COMUNICADO: Cambios en RNT - 16 de Febrero 2023.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/494743/post-cambios-en-rnt-16-de-febrero-2023",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/3db7c67b4ae41bc69e091ed4c31697d2.JPG",
+        prhase: "H"
+    },
+    {
+        id: 252,
+        title: "COMUNICADO: Actualización campos de dirección en Pre SO - Mex.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/493476/post-actualizacion-campos-de-direccion-en-pre-so-mex",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/b6674c9c19384f5c6f66799df39b0993.jpg",
+        prhase: "H"
+    },
+    {
         id: 251,
         title: "COMUNICADO: Cierre SAM BELGRANO por vacación.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/487705/post-cierre-sam-belgrano-por-vacacion",
