@@ -1,5 +1,12 @@
 export const releases = [
     {
+        id: 259,
+        title: "COMUNICADO: Contactos del G53 5G en Chile se debe transferir a N2.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/512769/post-contactos-del-g53-5g-en-chile-se-debe-transferir-a-n2",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/60255d21d7a1813efed682f320ac4d49.png",
+        prhase: "V"
+    },
+    {
         id: 258,
         title: "COMUNICADO: Nuevo formulario llamadas salientes (N1).",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/508055/post-nuevo-formulario-llamadas-salientes-n1",
