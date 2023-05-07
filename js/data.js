@@ -1,5 +1,54 @@
 export const releases = [
     {
+        id: 266,
+        title: "COMUNICADO: Actualización proceso para agregar direcciones de México en órdenes PRE-SO.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/532550/post-equipos-bloqueados-por-movistar-mexico",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/14b3f592b489ddb4c450083a0972a89e.png",
+        prhase: "V"
+    },
+    {
+        id: 265,
+        title: "COMUNICADO: Actualización proceso para agregar direcciones de México en órdenes PRE-SO.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/530716/post-actualizacion-proceso-para-agregar-direcciones-de-mexico-en-ordenes-pre-so",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/ce0f9f81479c8ff8fd68d0ed65b57407.png",
+        prhase: "V"
+    },
+    {
+        id: 264,
+        title: "COMUNICADO: La cámara no abre luego de actualizar a A13 - motorola edge 20 pro.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/530697/post-boletin-la-camara-no-abre-luego-de-actualizar-a-a13-motorola-edge-20-pro",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/0775c3a827730a876fecd42d4f3f2058.png",
+        prhase: "H"
+    },
+    {
+        id: 263,
+        title: "COMUNICADO: FAQ de scripts para casos de equipos irregulares.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/530364/post-faq-de-scripts-para-casos-de-equipos-irregulares",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/289ac65e48985d273c67ea251f198f30.png",
+        prhase: "V"
+    },
+    {
+        id: 262,
+        title: "COMUNICADO: Fallas de carga subes – Argentina.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/525652/post-fallas-de-carga-subes-argentina",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/0f27a624351d354062df61625fafe253.png",
+        prhase: "V"
+    },
+    {
+        id: 261,
+        title: "COMUNICADO: Referencia familia RAZR México.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/525388/post-referencia-familia-razr-mexico",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/0c82af3b38fab54d2bdfa47af9fd684c.png",
+        prhase: "V"
+    },
+    {
+        id: 260,
+        title: "COMUNICADO: Moto Edge 30 - Calidad de la imagen de la cámara / Efecto Jelly (distorsión ondulada).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/524813/post-boletin-moto-edge-30-calidad-de-la-imagen-de-la-camara-efecto-jelly-distorsion-ondulada",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/5f72664e6c14080807f0980de1c03974.png",
+        prhase: "H"
+    },
+    {
         id: 259,
         title: "COMUNICADO: Contactos del G53 5G en Chile se debe transferir a N2.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/512769/post-contactos-del-g53-5g-en-chile-se-debe-transferir-a-n2",
