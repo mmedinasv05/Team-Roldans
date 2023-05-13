@@ -1,5 +1,19 @@
 export const releases = [
     {
+        id: 268,
+        title: "COMUNICADO: Opciones de servicio para equipos con protección IP68 (FAQ 173961).",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/537170/post-opciones-de-servicio-para-equipos-con-proteccion-ip68-faq-173961",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/e83565d5a35dd478518c48a11568e965.png",
+        prhase: "H"
+    },
+    {
+        id: 267,
+        title: "COMUNICADO: Cómo verificar si un equipo tiene desbloqueado el bootloader.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/534196/post-como-verificar-si-un-equipo-tiene-desbloqueado-el-bootloader",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/b426bd7af69e755fabdb901e4bcab140.png",
+        prhase: "H"
+    },
+    {
         id: 266,
         title: "COMUNICADO: Actualización proceso para agregar direcciones de México en órdenes PRE-SO.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/532550/post-equipos-bloqueados-por-movistar-mexico",
