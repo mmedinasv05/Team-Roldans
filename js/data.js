@@ -1,5 +1,40 @@
 export const releases = [
     {
+        id: 273,
+        title: "COMUNICADO: Proceso OOW - México y argentina.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/550849/post-proceso-oow-mexico-y-argentina",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/7a6d1fa494bb1dcbd4adfad003d335ad.png",
+        prhase: "H"
+    },
+    {
+        id: 272,
+        title: "COMUNICADO: Canales de referencia centros de servicio - ARG.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/543430/post-canales-de-referencia-centros-de-servicio-arg",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/38b763ab2e88d6c06db0ee66d8c6053f.png",
+        prhase: "H"
+    },
+    {
+        id: 271,
+        title: "COMUNICADO: Lanzamiento de nuevos bundles equipo + accesorio – Colombia.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/539872/post-lanzamiento-de-nuevos-bundles-equipo-accesorio-colombia",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/cd1c7e74c45000d921d4ae26dc71711d.png",
+        prhase: "V"
+    },
+    {
+        id: 270,
+        title: "COMUNICADO: Lanzamiento de Pre SO en MIA.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/539583/post-lanzamiento-de-pre-so-en-mia",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/805634925d7b8c7d29f3092cddb19949.png",
+        prhase: "V"
+    },
+    {
+        id: 269,
+        title: "COMUNICADO: Equipos irregulares y equipos bloqueados por el proveedor ¿Como identificarlos? y ¿Que hacer?.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/539225/post-equipos-irregulares-y-equipos-bloqueados-por-el-proveedor-como-identificarlos-y-que-hacer",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/d2ca5934dbf59b2ce3f708b3e4b9d5d5.png",
+        prhase: "H"
+    },
+    {
         id: 268,
         title: "COMUNICADO: Opciones de servicio para equipos con protección IP68 (FAQ 173961).",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/537170/post-opciones-de-servicio-para-equipos-con-proteccion-ip68-faq-173961",
