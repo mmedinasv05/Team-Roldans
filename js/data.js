@@ -1,10 +1,87 @@
 export const releases = [
     {
+        id: 284,
+        title: "COMUNICADO: Lanzamiento pre so - sitio web.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/569352/post-lanzamiento-pre-so-sitio-web",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/raquel.cruz/post/img/6c09026b00e08b496b4abbf6366b37f9.png",
+        prhase: "H"
+    },
+    {
+        id: 283,
+        title: "COMUNICADO: Nuevo script promoción de encuesta.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/567995/post-nuevo-script-promocion-de-encuesta",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/c5ba6e8a61b0fbdad9dffd075c7b4088.png",
+        prhase: "V"
+    },
+    {
+        id: 282,
+        title: "COMUNICADO: Family Space. Cómo se ve, cómo salir y cómo borrar un espacio.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/564455/post-family-space-como-se-ve-como-salir-y-como-borrar-un-espacio",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/858e13aec15cebc7e58140ce9a174237.png",
+        prhase: "H"
+    },
+    {
+        id: 281,
+        title: "COMUNICADO: Modelos con cobertura de garantía por 24 meses y certificación ip68.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/563251/post-modelos-con-cobertura-de-garantia-por-24-meses-y-certificacion-ip68",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/858e13aec15cebc7e58140ce9a174237.png",
+        prhase: "H"
+    },
+    {
+        id: 280,
+        title: "COMUNICADO: Info sobre reparación - ARG.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/563046/post-info-sobre-reparacion-arg",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/08808a0343afebd05296a5a751f48fe5.png",
+        prhase: "V"
+    },
+    {
+        id: 279,
+        title: "COMUNICADO: Nuevo proceso de transferencia de chat entre departamentos.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/562183/post-nuevo-proceso-de-transferencia-de-chat-entre-departamentos",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/1764bb4bb899beb9ce5584ed4fdb00fe.png",
+        prhase: "V"
+    },
+    {
+        id: 278,
+        title: "COMUNICADO: El equipo pierde el audio durante las llamadas - Moto G13, Moto G23.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/561690/post-el-equipo-pierde-el-audio-durante-las-llamadas-moto-g13-moto-g23",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/c46fccd83eface9670174846c29c9581.png",
+        prhase: "H"
+    },
+    {
+        id: 277,
+        title: "COMUNICADO: Configurando un espacio en Family Space, la nueva app de moto.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/560708/post-configurando-un-espacio-en-family-space-la-nueva-app-de-moto",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/3af1f14d4946c453db607fd682de299c.png",
+        prhase: "V"
+    },
+    {
+        id: 276,
+        title: "COMUNICADO: 2 nuevas categorias en RNT.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/557202/post-2-nuevas-categorias-en-rnt",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/3af1f14d4946c453db607fd682de299c.png",
+        prhase: "V"
+    },
+    {
+        id: 275,
+        title: "COMUNICADO: Proceso para reportes de inconvenientes con Razr 40 ultra.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/555638/post-proceso-para-reportes-de-inconvenientes-con-razr-40-ultra",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/53a417a9daa2df7570e757407c65973d.png",
+        prhase: "V"
+    },
+    {
+        id: 274,
+        title: "COMUNICADO: Tracker ordenes de reparación MIA.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/554521/post-tracker-ordenes-de-reparacion-mia",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/c3a30f80e1f616fded72141c53f7649c.png",
+        prhase: "V"
+    },
+    {
         id: 273,
         title: "COMUNICADO: Proceso OOW - México y argentina.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/550849/post-proceso-oow-mexico-y-argentina",
         image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/7a6d1fa494bb1dcbd4adfad003d335ad.png",
-        prhase: "H"
+        prhase: "V"
     },
     {
         id: 272,
