@@ -1,5 +1,54 @@
 export const releases = [
     {
+        id: 291,
+        title: "COMUNICADO: Scripting para consultas sobre prueba de pliegues/dobleces Razr 40 ultra.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/592384/post-scripting-para-consultas-sobre-prueba-de-plieguesdobleces-razr-40-ultra",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/raquel.cruz/post/img/af81a512f8591636410d1347802b2448.png",
+        prhase: "H"
+    },
+    {
+        id: 290,
+        title: "COMUNICADO: Mensajes de bloqueo en México.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/590772/post-mensajes-de-bloqueo-en-mexico",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/235268c43c3545591abc4459daac909b.png",
+        prhase: "H"
+    },
+    {
+        id: 289,
+        title: "COMUNICADO: Mensaje de error - motorola razr 40 ultra.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/590399/post-mensaje-de-error-motorola-razr-40-ultra",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/9351006612d09f21c4531eba1a2fa9b5.png",
+        prhase: "V"
+    },
+    {
+        id: 288,
+        title: "COMUNICADO: Moto G60s - Fallas con última versión de software S3RLS32.114-25-12.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/590396/post-moto-g60s-fallas-con-ultima-version-de-software-s3rls32114-25-12",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/73b64d5964f4279d86ca1081e154e14d.png",
+        prhase: "V"
+    },
+    {
+        id: 287,
+        title: "COMUNICADO: Moto G14 no muestra notificación de turbo carga.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/581731/post-moto-g14-no-muestra-notificacion-de-turbo-carga",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/442f19a18160177a88c6c09014d66c45.png",
+        prhase: "V"
+    },
+    {
+        id: 286,
+        title: "COMUNICADO: BOLETIN: Pantalla con Imagen Corrupta-Verde o negra sin función táctil -Moto G52.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/581046/post-boletin-pantalla-con-imagen-corrupta-verde-o-negra-sin-funcion-tactil-moto-g52",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/8969e151c848bee0cdba2a5ccdc9e406.jpg",
+        prhase: "H"
+    },
+    {
+        id: 285,
+        title: "COMUNICADO: MOTOHELP - La prueba de sensor de proximidad no funciona correctamente.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/577433/post-motohelp-la-prueba-de-sensor-de-proximidad-no-funciona-correctamente",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/90c57ee880893fc92acd41509a5fed19.png",
+        prhase: "H"
+    },
+    {
         id: 284,
         title: "COMUNICADO: Lanzamiento pre so - sitio web.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/569352/post-lanzamiento-pre-so-sitio-web",
