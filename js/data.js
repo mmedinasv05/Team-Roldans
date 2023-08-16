@@ -4,7 +4,7 @@ export const releases = [
         title: "COMUNICADO: Scripting para consultas sobre prueba de pliegues/dobleces Razr 40 ultra.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/592384/post-scripting-para-consultas-sobre-prueba-de-plieguesdobleces-razr-40-ultra",
         image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/raquel.cruz/post/img/af81a512f8591636410d1347802b2448.png",
-        prhase: "H"
+        prhase: "V"
     },
     {
         id: 290,
