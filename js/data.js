@@ -1,5 +1,19 @@
 export const releases = [
     {
+        id: 293,
+        title: "COMUNICADO: Equipos sin la opción para restablecer a la configuración de fábrica.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/596044/post-equipos-sin-la-opcion-para-restablecer-a-la-configuracion-de-fabrica",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/e39d3601487ab73e3538b2d58a9c3a05.png",
+        prhase: "H"
+    },
+    {
+        id: 292,
+        title: "COMUNICADO: Equipos doblados.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/596040/post-equipos-doblados",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/64c16297714bfa9a72e15bf6332c6840.png",
+        prhase: "H"
+    },
+    {
         id: 291,
         title: "COMUNICADO: Scripting para consultas sobre prueba de pliegues/dobleces Razr 40 ultra.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/592384/post-scripting-para-consultas-sobre-prueba-de-plieguesdobleces-razr-40-ultra",
