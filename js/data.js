@@ -1,5 +1,33 @@
 export const releases = [
     {
+        id: 297,
+        title: "COMUNICADO: Revisión casos cerrados al MASC y actualización en matriz de categorías y resoluciones.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/616840/post-revision-casos-cerrados-al-masc-y-actualizacion-en-matriz-de-categorias-y-resoluciones",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/9c565850b62110e68b0ad4a8b9aa978f.jpg",
+        prhase: "V"
+    },
+    {
+        id: 296,
+        title: "COMUNICADO: Texto de recomendación helpapp.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/611586/post-texto-de-recomendacion-helpapp",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/06688ca5d32e00330d211adfe88600d0.png",
+        prhase: "V"
+    },
+    {
+        id: 295,
+        title: "COMUNICADO: Actualización FAQ: 173758 - Equipos irregulares.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/609368/post-actualizacion-faq-173758-equipos-irregulares",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/284bc9245ca4dfc70f753be4aa5d5413.png",
+        prhase: "H"
+    },
+    {
+        id: 294,
+        title: "COMUNICADO: Revestimiento no extraíble (Liner)de la pantalla interna - Moto Razr 40 Ultra,Motorola Razr 40.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/606786/post-revestimiento-no-extraible-linerde-la-pantalla-interna-moto-razr-40-ultramotorola-razr-40",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/ce0c45446513c2642105fee736fd5f8e.png",
+        prhase: "H"
+    },
+    {
         id: 293,
         title: "COMUNICADO: Equipos sin la opción para restablecer a la configuración de fábrica.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/596044/post-equipos-sin-la-opcion-para-restablecer-a-la-configuracion-de-fabrica",
