@@ -1,5 +1,26 @@
 export const releases = [
     {
+        id: 300,
+        title: "COMUNICADO: Nuevo servicio de revisión por paqueteria Perú.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/624004/post-nuevo-servicio-de-revision-por-paqueteria-peru",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/62e662b0a79bd7ed16c3f1802a5bfa7a.png",
+        prhase: "V"
+    },
+    {
+        id: 299,
+        title: "COMUNICADO: Cambio en el Formato de números de teléfono -- COLOMBIA.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/623072/post-cambio-en-el-formato-de-numeros-de-telefono-colombia",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/d20901b8e5e2d1a24ed12b1a496bcdbc.png",
+        prhase: "V"
+    },
+    {
+        id: 298,
+        title: "COMUNICADO: Nueva categoria en RNT.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/620342/post-nueva-categoria-en-rnt",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/1b7b2e5f9ce456328542fcddec9d0f02.png",
+        prhase: "V"
+    },
+    {
         id: 297,
         title: "COMUNICADO: Revisión casos cerrados al MASC y actualización en matriz de categorías y resoluciones.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/616840/post-revision-casos-cerrados-al-masc-y-actualizacion-en-matriz-de-categorias-y-resoluciones",
