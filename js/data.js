@@ -1,5 +1,12 @@
 export const releases = [
     {
+        id: 301,
+        title: "COMUNICADO: Suspensión campaña de inhabilitación de equipos irregulares - MX.",
+        urlBeedoo: "https://atentoop10.beedoo.io/feed/633737/post-suspension-campana-de-inhabilitacion-de-equipos-irregulares-mx",
+        image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/gaby.rivera/post/img/9fd09eb9eb8cdf34c80ea34424267206.png",
+        prhase: "V"
+    },
+    {
         id: 300,
         title: "COMUNICADO: Nuevo servicio de revisión por paqueteria Perú.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/624004/post-nuevo-servicio-de-revision-por-paqueteria-peru",
@@ -8,7 +15,7 @@ export const releases = [
     },
     {
         id: 299,
-        title: "COMUNICADO: Cambio en el Formato de números de teléfono -- COLOMBIA.",
+        title: "COMUNICADO: Cambio en el Formato de números de teléfono - COLOMBIA.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/623072/post-cambio-en-el-formato-de-numeros-de-telefono-colombia",
         image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/d20901b8e5e2d1a24ed12b1a496bcdbc.png",
         prhase: "V"
@@ -29,7 +36,7 @@ export const releases = [
     },
     {
         id: 296,
-        title: "COMUNICADO: Texto de recomendación helpapp.",
+        title: "COMUNICADO: Texto de recomendación help App.",
         urlBeedoo: "https://atentoop10.beedoo.io/feed/611586/post-texto-de-recomendacion-helpapp",
         image: "https://s3.amazonaws.com/beedoo-user-us/atentoop10/edwin.rivera/post/img/06688ca5d32e00330d211adfe88600d0.png",
         prhase: "V"
