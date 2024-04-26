@@ -1,54 +1,51 @@
-import {releases} from '../js/data.js';
+import { releases } from "../js/data.js";
 
 const $boxSearch = document.querySelector("#bar-search"),
-$contentRelease = document.querySelector("#content-releases");
+  $contentRelease = document.querySelector("#content-releases"),
+  imgDefault =
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNK7-n-r_w_qCEIjsnu8VXMBamUkSmLUr9Eg&usqp=CAU";
 
-const filtrar = ()=>{
-    const texto = $boxSearch.value.toLowerCase();
-    $contentRelease.innerHTML = "";
+const filtrar = () => {
+  const texto = $boxSearch.value.toLowerCase();
+  $contentRelease.innerHTML = "";
 
-    for(let release of releases){
+  for (let release of releases) {
+    let $prhase = release.prhase.toLowerCase();
+    let $nombre = release.title.toLowerCase();
 
-        let $prhase = release.prhase.toLowerCase();
-        let $nombre = release.title.toLowerCase();
-
-        if($nombre.indexOf(texto) !== -1 || $prhase.indexOf(texto) !== -1){
-
-            if(release.prhase === "H"){
-                $contentRelease.innerHTML += `
+    if ($nombre.indexOf(texto) !== -1 || $prhase.indexOf(texto) !== -1) {
+      if (release.prhase === "H") {
+        $contentRelease.innerHTML += `
                 <figure class="releases-h" id="release">
-                    <img src="${release.image} || https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNK7-n-r_w_qCEIjsnu8VXMBamUkSmLUr9Eg&usqp=CAU" class="image-release-h" loading="lazy" atl="${release.title}" />
+                    <img src="${release.image}" class="image-release-h" loading="lazy" atl="${release.title}" />
                     <figcaption class="text-release">
                         <h6>${release.title}</h6>
                         <a href="${release.urlBeedoo}" target="_blank">Ver en Beedoo.</a>                        
-                    </figcaption aption>
+                    </figcaption>
                 </figure>
-            `
-            }else{
-                $contentRelease.innerHTML += `
+            `;
+      } else {
+        $contentRelease.innerHTML += `
                 <figure class="releases" id="release">
                     <img src="${release.image}" class="image-release" loading="lazy" atl="${release.title}" />
                     <figcaption class="text-release">
                         <h6>${release.title}</h6>
                         <a href="${release.urlBeedoo}" target="_blank">Ver en Beedoo.</a>
-
-                        
-                    </figcaption aption>
+                    </figcaption>
                 </figure>
-            `            
-            }
-        }                
+            `;
+      }
     }
+  }
 
-    if($contentRelease.innerHTML === ""){
-        $contentRelease.innerHTML = `
+  if ($contentRelease.innerHTML === "") {
+    $contentRelease.innerHTML = `
             <img src="media/not-found.png" class="image-not-found" />
-        `
-        /*<img src="media/not.png" class="image-not-found" /> 
+        `;
+    /*<img src="media/not.png" class="image-not-found" /> 
         <img src="media/not-found-min.jpg" class="image-not-found" />*/
-    }
-
-}
+  }
+};
 $boxSearch.addEventListener("keyup", filtrar);
 
 filtrar();
