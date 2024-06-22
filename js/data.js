@@ -1,5 +1,90 @@
 export const releases = [
   {
+    id: 342,
+    title: "COMUNICADO: Proceso fallas con PreSO.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/760939/post-proceso-fallas-con-preso",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/b8e32d30f55ec37134c338999007bc17.png",
+    prhase: "V",
+  },
+  {
+    id: 341,
+    title:
+      "COMUNICADO: Moto G24, Moto G24 Power - APKs de Streaming, usuarios dan plan pero no se ve imágen.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/758281/post-moto-g24-moto-g24-power-apks-de-streaming-usuarios-dan-plan-pero-no-se-ve-imagen",
+    image:
+      "https://cdn.beedoo.io/atentoop10/edwin.rivera/post/img/d7b585a850fdd402616d3ebbca09703e.png",
+    prhase: "V",
+  },
+  {
+    id: 340,
+    title:
+      "COMUNICADO: Moto G84 5G (Bankok 5G) - MALA CALIDAD DE IMAGEN AL ABRIR LA CAMARA O TOMAR FOTOS O VIDEOS.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/757609/post-moto-g84-5g-bankok-5g-mala-calidad-de-imagen-al-abrir-la-camara-o-tomar-fotos-o-videos",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/d28d006cd15dd0574585145cb326e238.png",
+    prhase: "V",
+  },
+  {
+    id: 339,
+    title: "COMUNICADO: Nuevo proceso para casos que requieran Call Back.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/754669/post-nuevo-proceso-para-casos-que-requieran-call-back",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/bc11e1a3d98a38532730e80bdbda3fc1.png",
+    prhase: "V",
+  },
+  {
+    id: 338,
+    title: "COMUNICADO: Soporte TVs motorola - Mexico.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/750945/post-soporte-tvs-motorola-mexico",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/b5a15d6714020200aaf259798576b914.png",
+    prhase: "V",
+  },
+  {
+    id: 337,
+    title:
+      "COMUNICADO: Proceso de servicio MotoBuds / MotoBuds+ (Guitar/Flute).",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/750927/post-proceso-de-servicio-motobuds-motobuds-guitarflute",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/ad4d4a10f0405e39a87f2714b8a2a3aa.png",
+    prhase: "V",
+  },
+  {
+    id: 336,
+    title:
+      "COMUNICADO: Moto G24 (Fogo 4G) - EL EQUIPO NO PASA DEL LOGO AL ENCENDERSE.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/744491/post-moto-g24-fogo-4g-el-equipo-no-pasa-del-logo-al-encenderse",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/ee640ae295209e9943631d003c228996.png",
+    prhase: "V",
+  },
+  {
+    id: 335,
+    title: "COMUNICADO: Moto G34 5G - ALTAVOZ (SPEAKER) NO FUNCIONA.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/738123/post-moto-g34-5g-altavoz-speaker-no-funciona",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/28c39baeb2b3c3a4abddcb0c5aea5f24.jpeg",
+    prhase: "V",
+  },
+  {
+    id: 334,
+    title: "COMUNICADO: PRE SO MEXICO - GARANTÍA PROXIMA A VENCER.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/735358/post-pre-so-mexico-garantia-proxima-a-vencer",
+    image:
+      "https://cdn.beedoo.io/atentoop10/raquel.cruz/post/img/c4768653642535c9f356bcb9742456bc.png",
+    prhase: "H",
+  },
+  {
     id: 333,
     title: "COMUNICADO: Validación de Garantía del Motorola DEFY en Colombia.",
     urlBeedoo:
