@@ -1,5 +1,59 @@
 export const releases = [
   {
+    id: 348,
+    title: "COMUNICADO: Familia Edge 50 - Mala calidad de audio/ Protector de pantalla.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/775940/post-familia-edge-50-mala-calidad-de-audio-protector-de-pantalla",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/133830326f0d866beb1757dbef794d62.png",
+    prhase: "V",
+  },
+  {
+    id: 347,
+    title: "COMUNICADO: Cierre MASC Tijuana y proceso de referencia.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/773496/post-cierre-masc-tijuana-y-proceso-de-referencia",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/c02398748e1443d2e608c2921f72d8f4.png",
+    prhase: "V",
+  },
+  {
+    id: 346,
+    title: "COMUNICADO: Compartir carga.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/772829/post-compartir-carga",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/f209d0b2475d97aff263475eeee7f9c4.jpeg",
+    prhase: "V",
+  },
+  {
+    id: 345,
+    title: "COMUNICADO: Smart Apps y Expandir RAM.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/772816/post-smart-apps-y-expandir-ram",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/f209d0b2475d97aff263475eeee7f9c4.jpeg",
+    prhase: "V",
+  },
+  {
+    id: 344,
+    title: "COMUNICADO: Nuevas categorías para escenarios de troubleshooting.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/772793/post-nuevas-categorias-para-escenarios-de-troubleshooting",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/f209d0b2475d97aff263475eeee7f9c4.jpeg",
+    prhase: "V",
+  },
+  {
+    id: 343,
+    title: "COMUNICADO: Moto G24 (Fogo 4G) - el usario el mensaje dm-verify....",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/767860/post-moto-g24-fogo-4g-el-usario-el-mensaje-dm-verify",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/6a634da5fdcaa682b7766f62290ae592.jpeg",
+    prhase: "V",
+  },
+  {
     id: 342,
     title: "COMUNICADO: Proceso fallas con PreSO.",
     urlBeedoo:
