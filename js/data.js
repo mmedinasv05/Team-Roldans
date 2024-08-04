@@ -1,5 +1,23 @@
 export const releases = [
   {
+    id: 350,
+    title: "COMUNICADO: Vistazo rápido al rebrand de Rescate y asistente inteligente ahora Reparación por software.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/784803/post-vistazo-rapido-al-rebrand-de-rescate-y-asistente-inteligente-ahora-reparacion-por-software",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmVLBbDklKR3RA7S6opsypqXo2-ObDTHM2-Q&s",
+    prhase: "V",
+  },
+  {
+    id: 349,
+    title: "COMUNICADO: Perú: MENSAJE DE BLOQUEO DE EQUIPOS.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/781752/post-peru-mensaje-de-bloqueo-de-equipos",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/2410513a57e8413b7fa57ec1ac8b8966.png",
+    prhase: "V",
+  },
+  {
     id: 348,
     title: "COMUNICADO: Familia Edge 50 - Mala calidad de audio/ Protector de pantalla.",
     urlBeedoo:
