@@ -1,5 +1,23 @@
 export const releases = [
   {
+    id: 352,
+    title: "COMUNICADO: Moto G23: Posible falla luego de la actualización UHA3429.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/787306/post-moto-g23-posible-falla-luego-de-la-actualizacion-uha3429",
+    image:
+      "https://cdn.beedoo.io/atentoop10/raquel.cruz/post/img/89262518559e34ea6058109485e8cdef.png",
+    prhase: "V",
+  },
+  {
+    id: 351,
+    title: "COMUNICADO: Proceso de garantías para accesorios en México y Colombia.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/786864/post-proceso-de-garantias-para-accesorios-en-mexico-y-colombia",
+    image:
+      "https://cdn.beedoo.io/atentoop10/raquel.cruz/post/img/86d855effb61de22beb178b56035d382.png",
+    prhase: "V",
+  },
+  {
     id: 350,
     title: "COMUNICADO: Vistazo rápido al rebrand de Rescate y asistente inteligente ahora Reparación por software.",
     urlBeedoo:
