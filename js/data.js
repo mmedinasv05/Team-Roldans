@@ -1,5 +1,77 @@
 export const releases = [
   {
+    id: 360,
+    title: "COMUNICADO: ANDROID 14 (TODOS LOS MODELOS) - NOTIFICACIONES DE APLICACIONES DE TERCEROS RETRASADAS.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/824209/post-android-14-todos-los-modelos-notificaciones-de-aplicaciones-de-terceros-retrasadas",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/202fc54dbaad1a99c39dda322e46703c.png",
+    prhase: "V",
+  },
+  {
+    id: 359,
+    title: "COMUNICADO: Proceso de creación de casos.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/819674/post-proceso-de-creacion-de-casos",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/23dea4850a102cdb71791fc7034cd101.png",
+    prhase: "V",
+  },
+  {
+    id: 358,
+    title: "COMUNICADO: Nuevos productos coporativos motorolas.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/819476/post-nuevos-productos-coporativos-motorola",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/1f93141f9e2ce747a345684869f905a8.png",
+    prhase: "V",
+  },
+  {
+    id: 357,
+    title: "COMUNICADO: Procesando reportes de fallas con apps.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/808041/post-procesando-reportes-de-fallas-con-apps",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/26091629fd8e0df64dee6eaed07719f1.png",
+    prhase: "V",
+  },
+  {
+    id: 356,
+    title: "COMUNICADO: Acciones RIR: Registro de detalles sobre consultas de estado de reparación.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/800987/post-acciones-rir-registro-de-detalles-sobre-consultas-de-estado-de-reparacion",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/1da6f6ca979c239a07b9b2dd3df4437b.png",
+    prhase: "V",
+  },
+  {
+    id: 355,
+    title: "COMUNICADO: Acciones RIR: Levanta la mano.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/800986/post-acciones-rir-levanta-la-mano",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/7efaa7890c04adb7992689b461c1ddff.png",
+    prhase: "V",
+  },
+  {
+    id: 354,
+    title: "COMUNICADO: Clientes que llaman de la misma unidad o no tienen el equipo durante la llamada.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/798039/post-clientes-que-llaman-de-la-misma-unidad-o-no-tienen-el-equipo-durante-la-llamada",
+    image:
+      "https://cdn.beedoo.io/atentoop10/gaby.rivera/post/img/1e3b08341625d9f9c61bfc0659091de8.png",
+    prhase: "V",
+  },
+  {
+    id: 353,
+    title: "COMUNICADO: Soporte auriculares Bose.",
+    urlBeedoo:
+      "https://atentoop10.beedoo.io/feed/789039/post-soporte-auriculares-bose",
+    image:
+      "https://cdn.beedoo.io/atentoop10/raquel.cruz/post/img/ca6574975f540435a36275c601ffe334.png",
+    prhase: "V",
+  },
+  {
     id: 352,
     title: "COMUNICADO: Moto G23: Posible falla luego de la actualización UHA3429.",
     urlBeedoo:
